@@ -1,0 +1,15 @@
+2014-09-15 14:40:42.037647|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2014-09-15 14:40:42.037825|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab092.2 #1 SMP Tue Jul 8 10:35:55 MSK 2014 x86_64 Binary: 64bit
+2014-09-15 14:40:42.038903|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2014-09-15 14:40:42.038937|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2014-09-15 14:40:42.039283|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2014-09-15 14:40:42.082182|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2014-09-15 14:40:44.504178|INFO    |              |   | Puzzle precompute time: 2407
+2014-09-15 14:40:44.504774|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2014-09-15 14:40:44.563350|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2014-09-15 14:40:44.563971|INFO    |Query         |   | listening on 0.0.0.0:10011
+2014-10-01 00:01:42.228888|INFO    |VirtualSvrMgr |   | executing monthly interval
+2014-10-01 00:01:42.262953|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2014-10-24 17:41:09.969183|INFO    |Query         |   | query from 1 62.87.233.120:42458 issued: login with account "McK"(TTnRxrY6a+6iW8xnf2Kl7n2QIfA=)
+2014-10-24 17:44:03.247844|INFO    |Query         |   | query from 1 62.87.233.120:42458 issued: login with account "McK"(TTnRxrY6a+6iW8xnf2Kl7n2QIfA=)
+2014-10-24 17:45:38.286966|INFO    |Query         |   | query from 2 62.87.233.120:54630 issued: login with account "McK"(TTnRxrY6a+6iW8xnf2Kl7n2QIfA=)

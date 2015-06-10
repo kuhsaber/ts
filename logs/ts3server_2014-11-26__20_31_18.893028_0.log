@@ -1,0 +1,15 @@
+2014-11-26 20:31:18.893236|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2014-11-26 20:31:18.900971|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab094.7 #1 SMP Wed Oct 22 12:43:21 MSK 2014 x86_64 Binary: 64bit
+2014-11-26 20:31:18.939052|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2014-11-26 20:31:18.951604|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2014-11-26 20:31:18.960723|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2014-11-26 20:31:19.065363|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2014-11-26 20:31:21.403785|INFO    |              |   | Puzzle precompute time: 2288
+2014-11-26 20:31:21.413897|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2014-11-26 20:31:21.766057|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2014-11-26 20:31:21.767015|INFO    |Query         |   | listening on 0.0.0.0:10011
+2014-12-01 00:01:19.142439|INFO    |VirtualSvrMgr |   | executing monthly interval
+2014-12-01 00:01:19.238194|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2014-12-13 20:51:43.162425|ERROR   |DatabaseQuery |   | db_exec failed disk I/O error
+2014-12-13 20:51:43.170301|ERROR   |DatabaseQuery |   | db_exec() update clients set client_nickname='&#960;cKe&#165;&#254;l' where client_id=2 and  error: disk I/O error
+2014-12-13 20:51:43.170355|CRITICAL|DatabaseQuery |   | Assertion "error == ERROR_ok" failed at server/serverlib/database/db_database.cpp:113; 

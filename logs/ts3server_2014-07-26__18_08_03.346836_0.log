@@ -1,0 +1,8 @@
+2014-07-26 18:08:03.346994|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2014-07-26 18:08:03.347185|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab092.2 #1 SMP Tue Jul 8 10:35:55 MSK 2014 x86_64 Binary: 64bit
+2014-07-26 18:08:03.348372|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2014-07-26 18:08:03.348426|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2014-07-26 18:08:03.348775|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2014-07-26 18:08:03.383722|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2014-07-26 18:08:03.384702|ERROR   |Accounting    |   | failed to register local accounting service
+2014-07-26 18:08:03.384751|ERROR   |ServerLibPriv |   | Server() error while starting servermanager, error: instance check error

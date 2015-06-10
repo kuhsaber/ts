@@ -1,0 +1,8 @@
+2014-08-23 11:12:42.291237|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2014-08-23 21:44:39.253387|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1910538173) was added by '!&#960;cKe&#165;&#254;l'(id:2) to client (id:34)
+2014-08-25 13:45:31.469236|INFO    |VirtualServer |  1| client (id:39) was added to servergroup 'McKey'(id:9) by client 'Kurenai-&#32005;-&#12497;&#12488;&#12522;&#12483;&#12463;'(id:6)
+2014-08-26 17:30:28.456823|INFO    |VirtualServer |  1| client (id:40) was added to servergroup 'McKey'(id:9) by client '!&#960;cKe&#165;&#254;l'(id:2)
+2014-08-27 09:35:28.203351|INFO    |VirtualServer |  1| client 'McK-HTC Desire'(id:39) was added to channelgroup 'Guest'(id:8) by client 'McK-HTC Desire'(id:39) in channel 'mobi'(id:52)
+2014-08-29 19:11:02.798498|INFO    |VirtualServer |  1| client 'ZUREK520'(id:23) was added to channelgroup 'Voice'(id:7) by client 'Kijori'(id:5) in channel 'Team 2'(id:49)
+2014-08-29 19:11:10.675021|INFO    |VirtualServer |  1| client 'Defalt'(id:8) was added to channelgroup 'Operator'(id:6) by client 'Kijori'(id:5) in channel 'Team 2'(id:49)
+2014-09-13 20:29:46.898120|INFO    |VirtualServerBase|  1| stopped
