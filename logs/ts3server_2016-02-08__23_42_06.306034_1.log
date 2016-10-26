@@ -1,0 +1,2 @@
+2016-02-08 23:42:11.403736|ERROR   |VirtualServer |  1| bind failed on 0.0.0.0:9987
+2016-02-08 23:42:11.415264|INFO    |VirtualServerBase|  1| stopped

@@ -1,0 +1,1394 @@
+2016-03-16 19:35:02.047807|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.2 (2014-12-15 14:43:52)
+2016-03-16 19:35:02.080325|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab111.12 #1 SMP Thu Sep 17 11:38:20 MSK 2015 x86_64 Binary: 64bit
+2016-03-16 19:35:02.088299|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-03-16 19:35:02.088395|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2016-03-16 19:35:02.091547|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2016-03-16 19:35:02.380906|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-16 19:35:02.381017|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-16 19:35:02.607129|INFO    |Accounting    |   | Licensing Information
+2016-03-16 19:35:02.607239|INFO    |Accounting    |   | type              : Non-profit
+2016-03-16 19:35:02.607327|INFO    |Accounting    |   | starting date     : Mon Dec 24 00:00:00 2012
+2016-03-16 19:35:02.607387|INFO    |Accounting    |   | ending date       : Sat Jun 29 00:00:00 2013
+2016-03-16 19:35:02.607606|INFO    |Accounting    |   | max virtualservers: 10
+2016-03-16 19:35:02.607652|INFO    |Accounting    |   | max slots         : 512
+2016-03-16 19:35:04.905850|INFO    |              |   | Puzzle precompute time: 2196
+2016-03-16 19:35:04.911395|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2016-03-16 19:35:05.321346|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2016-03-16 19:35:05.322171|INFO    |Query         |   | listening on 0.0.0.0:10011
+2016-03-16 19:35:05.419184|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-16 19:35:05.419290|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-16 20:37:59.286717|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-16 20:37:59.286858|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-16 21:41:48.613381|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-16 21:41:48.613560|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-16 22:45:34.485736|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-16 22:45:34.485898|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-16 23:50:58.926653|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-16 23:50:58.926817|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 00:55:03.894194|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 00:55:03.894441|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 01:59:24.660934|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 01:59:24.661110|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 03:01:58.562290|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 03:01:58.562484|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 04:05:18.449394|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 04:05:18.449571|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 05:07:55.093006|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 05:07:55.093146|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 06:11:07.117396|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 06:11:07.117601|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 07:13:27.276434|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 07:13:27.276595|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 08:16:48.909329|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 08:16:48.909480|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 09:20:33.431018|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 09:20:33.431786|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 10:24:03.573151|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 10:24:03.573316|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 11:27:28.346059|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 11:27:28.346250|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 12:30:11.917213|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 12:30:11.917398|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 13:33:46.035938|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 13:33:46.036076|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 14:37:06.123782|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 14:37:06.123926|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 15:40:49.537909|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 15:40:49.538050|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 16:43:21.589695|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 16:43:21.589895|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 17:44:50.844083|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 17:44:50.844239|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 18:48:11.987846|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 18:48:11.987991|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 19:50:33.375586|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 19:50:33.375785|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 20:53:11.220298|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 20:53:11.220437|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 21:55:58.597718|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 21:55:58.597940|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-17 22:58:52.823431|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-17 22:58:52.823583|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 00:02:39.326061|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 00:02:39.326235|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 01:06:15.264668|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 01:06:15.264807|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 02:08:02.522947|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 02:08:02.523110|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 03:11:14.094024|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 03:11:14.094207|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 04:14:13.032536|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 04:14:13.032729|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 05:17:37.307591|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 05:17:37.307742|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 06:20:18.695698|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 06:20:18.695902|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 07:22:40.636536|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 07:22:40.636708|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 08:25:34.830195|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 08:25:34.830352|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 09:29:30.530055|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 09:29:30.530206|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 10:31:14.654238|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 10:31:14.656903|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 11:33:32.153952|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 11:33:32.154124|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 12:36:14.600496|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 12:36:14.600632|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 13:38:34.137937|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 13:38:34.138087|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 14:40:46.101415|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 14:40:46.101542|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 15:44:18.982507|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 15:44:18.982658|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 16:47:03.364983|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 16:47:03.365131|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 17:49:42.318252|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 17:49:42.318415|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 18:53:08.497823|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 18:53:08.497969|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 19:55:22.054437|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 19:55:22.054595|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 20:58:14.898815|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 20:58:14.898957|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 22:01:11.369576|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 22:01:11.369719|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-18 23:03:45.505049|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-18 23:03:45.505196|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 00:07:05.002880|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 00:07:05.003024|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 01:09:33.330451|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 01:09:33.330605|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 02:12:53.398707|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 02:12:53.398911|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 03:15:27.420658|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 03:15:27.420804|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 04:17:41.693964|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 04:17:41.694125|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 05:21:08.604080|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 05:21:08.604200|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 06:23:23.060686|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 06:23:23.060830|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 07:26:11.309595|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 07:26:11.309762|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 08:28:50.635289|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 08:28:50.635415|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 09:31:16.770676|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 09:31:16.770805|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 10:32:46.833772|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 10:32:46.833900|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 11:34:51.168575|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 11:34:51.168702|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 12:37:52.967845|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 12:37:52.968008|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 13:39:42.528905|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 13:39:42.529064|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 14:42:55.106335|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 14:42:55.106532|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 15:47:16.098986|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 15:47:16.099089|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 16:49:10.303976|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 16:49:10.304106|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 17:53:00.078967|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 17:53:00.079197|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 18:57:18.821210|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 18:57:18.821390|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 20:00:53.244106|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 20:00:53.244237|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 21:03:56.881218|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 21:03:56.881426|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 22:07:20.100535|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 22:07:20.100712|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-19 23:10:37.549401|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-19 23:10:37.549574|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 00:13:28.063176|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 00:13:28.071753|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 01:17:29.466324|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 01:17:29.466510|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 02:21:05.841757|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 02:21:05.841899|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 03:24:11.633679|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 03:24:11.633815|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 04:29:14.662532|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 04:29:14.662721|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 05:32:58.511919|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 05:32:58.512077|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 06:35:15.968720|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 06:35:15.968886|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 07:37:17.821251|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 07:37:17.821376|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 08:40:23.497413|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 08:40:23.497564|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 09:42:55.368390|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 09:42:55.368675|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 10:45:58.501461|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 10:45:58.504023|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 11:49:43.816155|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 11:49:43.816300|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 12:54:27.515957|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 12:54:27.516136|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 14:01:23.866125|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 14:01:23.866259|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 15:04:14.133649|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 15:04:14.133823|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 16:09:19.111824|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 16:09:19.111960|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 17:15:54.504287|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 17:15:54.504417|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 18:21:59.305212|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 18:21:59.305323|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 19:28:02.930256|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 19:28:02.935754|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 20:34:24.386687|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 20:34:24.386786|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 21:39:55.930362|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 21:39:55.930512|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 22:44:20.190465|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 22:44:20.190595|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-20 23:50:55.558241|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-20 23:50:55.558391|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 00:56:11.334644|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 00:56:11.334821|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 02:00:48.405858|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 02:00:48.406039|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 03:07:04.361658|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 03:07:04.361793|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 04:13:33.126025|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 04:13:33.126225|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 05:17:37.628943|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 05:17:37.629086|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 06:23:13.173073|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 06:23:13.173211|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 07:30:07.805839|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 07:30:07.805996|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 08:37:42.212974|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 08:37:42.213097|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 09:45:52.458711|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 09:45:52.458907|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 10:51:38.203339|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 10:51:38.203501|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 11:56:34.512359|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 11:56:34.512476|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 13:00:03.657399|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 13:00:03.657593|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 14:03:36.030416|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 14:03:36.030549|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 15:08:27.256483|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 15:08:27.256619|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 16:12:20.361386|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 16:12:20.361503|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 17:17:12.436850|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 17:17:12.438653|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 18:20:54.601724|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 18:20:54.601873|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 19:24:50.959190|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 19:24:50.959316|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 20:30:54.437116|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 20:30:54.437252|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 21:36:58.084914|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 21:36:58.085079|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 22:40:58.974026|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 22:40:58.974346|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-21 23:43:23.413563|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-21 23:43:23.413711|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 00:46:07.855495|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 00:46:07.855638|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 01:49:39.003036|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 01:49:39.003194|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 02:52:56.422885|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 02:52:56.423061|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 03:57:26.915351|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 03:57:26.915576|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 05:00:26.972456|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 05:00:26.972688|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 06:02:57.713719|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 06:02:57.713902|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 07:06:03.802956|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 07:06:03.803125|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 08:09:26.749150|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 08:09:26.749299|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 09:11:22.642807|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 09:11:22.642945|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 10:13:32.396932|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 10:13:32.397189|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 11:15:02.521879|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 11:15:02.522079|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 12:16:41.635167|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 12:16:41.635387|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 13:17:54.882649|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 13:17:54.882774|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 14:19:20.310604|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 14:19:20.319249|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 15:20:35.541031|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 15:20:35.541195|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 16:22:33.531056|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 16:22:33.531178|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 17:24:16.282023|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 17:24:16.282198|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 18:26:43.511534|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 18:26:43.511737|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 19:28:36.900643|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 19:28:36.901049|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 20:31:28.550036|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 20:31:28.550158|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 21:33:29.306320|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 21:33:29.306525|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 22:35:59.324326|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 22:35:59.324490|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-22 23:39:09.764963|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-22 23:39:09.765142|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 00:41:20.113231|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 00:41:20.113403|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 01:43:33.441369|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 01:43:33.441530|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 02:45:02.202621|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 02:45:02.202803|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 03:47:20.188288|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 03:47:20.188504|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 04:49:55.639544|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 04:49:55.639816|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 05:52:19.971913|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 05:52:19.972126|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 06:54:10.693016|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 06:54:10.693150|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 07:55:38.368824|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 07:55:38.368969|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 08:57:34.256160|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 08:57:34.256301|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 09:59:03.714552|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 09:59:03.714673|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 11:01:29.081619|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 11:01:29.088836|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 12:03:50.114312|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 12:03:50.114532|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 13:06:41.034883|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 13:06:41.035000|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 14:10:41.193622|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 14:10:41.193897|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 15:12:50.204445|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 15:12:50.214843|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 16:15:25.927774|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 16:15:25.927909|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 17:18:06.002687|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 17:18:06.002910|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 18:21:43.454192|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 18:21:43.454386|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 19:23:43.099792|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 19:23:43.099954|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 20:28:00.458085|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 20:28:00.458224|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 21:30:23.845553|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 21:30:23.845694|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 22:34:25.429053|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 22:34:25.429211|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-23 23:36:11.868735|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-23 23:36:11.868879|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 00:38:51.881955|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 00:38:51.882084|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 01:41:48.143398|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 01:41:48.148904|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 02:44:50.946944|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 02:44:50.947108|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 03:48:23.528027|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 03:48:23.528154|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 04:50:50.944018|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 04:50:50.944152|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 05:53:32.632530|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 05:53:32.632723|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 06:56:58.721835|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 06:56:58.721982|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 08:00:46.923201|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 08:00:46.923307|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 09:03:35.390772|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 09:03:35.390916|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 10:07:46.709324|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 10:07:46.709450|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 11:11:43.341451|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 11:11:43.341584|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 12:15:25.029741|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 12:15:25.029895|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 13:19:36.897035|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 13:19:36.897265|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 14:23:41.609048|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 14:23:41.609172|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 15:26:30.746598|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 15:26:30.746763|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 16:29:06.728739|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 16:29:06.728885|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 17:32:57.687522|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 17:32:57.687683|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 18:35:29.480997|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 18:35:29.490946|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 19:38:10.961335|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 19:38:10.961505|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 20:41:34.068178|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 20:41:34.068313|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 21:45:16.577394|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 21:45:16.577548|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 22:47:33.741095|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 22:47:33.741244|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-24 23:50:07.731067|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-24 23:50:07.731257|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 00:52:08.281581|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 00:52:08.281731|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 01:53:04.803189|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 01:53:04.803314|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 02:56:05.593367|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 02:56:05.593528|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 03:58:13.322387|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 03:58:13.322577|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 04:59:34.231821|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 04:59:34.231975|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 06:01:28.902248|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 06:01:28.902395|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 07:02:57.429752|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 07:02:57.429957|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 08:05:48.804628|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 08:05:48.804962|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 09:07:30.799034|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 09:07:30.799185|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 10:10:45.979431|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 10:10:45.979607|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 11:12:57.071248|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 11:12:57.071374|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 12:16:00.968640|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 12:16:00.968771|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 13:19:44.188171|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 13:19:44.192634|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 14:22:48.959630|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 14:22:48.967697|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 15:25:42.236587|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 15:25:42.236711|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 16:30:03.452304|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 16:30:03.452515|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 17:34:23.051576|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 17:34:23.051735|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 18:37:40.665673|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 18:37:40.665818|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 19:42:05.877143|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 19:42:05.877286|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 20:45:45.017337|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 20:45:45.017537|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 21:47:10.386499|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 21:47:10.386627|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 22:49:41.752337|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 22:49:41.752535|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-25 23:54:29.597505|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-25 23:54:29.597665|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 00:55:54.337454|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 00:55:54.337590|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 01:57:08.169297|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 01:57:08.169934|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 02:58:16.387823|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 02:58:16.387982|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 03:59:41.259220|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 03:59:41.259334|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 05:02:28.625135|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 05:02:28.625304|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 06:05:55.460503|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 06:05:55.460763|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 07:08:53.479062|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 07:08:53.479198|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 08:12:50.845876|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 08:12:50.846027|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 09:14:52.491673|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 09:14:52.491827|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 10:17:11.404605|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 10:17:11.404729|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 11:19:33.128633|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 11:19:33.133412|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 12:22:03.097754|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 12:22:03.097900|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 13:23:07.491883|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 13:23:07.492007|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 14:26:09.736235|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 14:26:09.736485|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 15:29:49.255393|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 15:29:49.255586|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 16:33:37.123225|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 16:33:37.123358|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 17:37:15.221423|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 17:37:15.221639|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 18:41:07.927430|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 18:41:07.927569|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 19:42:22.389476|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 19:42:22.389642|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 20:45:56.964085|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 20:45:56.964250|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 21:50:01.951903|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 21:50:01.952084|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 22:53:27.760810|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 22:53:27.760957|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-26 23:57:28.799980|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-26 23:57:28.800179|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 01:01:35.333381|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 01:01:35.333702|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 02:04:50.208861|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 02:04:50.209049|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 03:07:55.787549|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 03:07:55.787763|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 04:10:51.447762|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 04:10:51.447925|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 05:13:42.616104|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 05:13:42.616280|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 06:16:50.834622|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 06:16:50.834779|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 07:20:00.261145|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 07:20:00.261277|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 08:21:22.423806|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 08:21:22.423992|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 09:23:33.291419|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 09:23:33.291532|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 10:25:15.187418|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 10:25:15.187545|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 11:27:24.047625|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 11:27:24.047747|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 12:29:40.329173|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 12:29:40.329277|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 13:31:43.725156|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 13:31:43.725288|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 14:34:07.309254|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 14:34:07.309377|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 15:36:35.988354|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 15:36:35.988506|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 16:39:17.154492|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 16:39:17.154609|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 17:42:08.030858|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 17:42:08.030995|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 18:45:07.482960|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 18:45:07.485335|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 19:46:53.734962|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 19:46:53.735163|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 20:48:48.295648|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 20:48:48.295868|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 21:50:22.745595|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 21:50:22.745763|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 22:52:31.128124|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 22:52:31.128344|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-27 23:54:13.821787|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-27 23:54:13.821949|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 00:56:00.884458|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 00:56:00.884685|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 01:57:20.296288|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 01:57:20.296488|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 02:59:47.428087|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 02:59:47.428219|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 04:01:42.590741|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 04:01:42.590920|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 05:04:38.987380|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 05:04:38.987599|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 06:05:44.431011|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 06:05:44.431172|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 07:06:31.850313|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 07:06:31.850442|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 08:07:14.479304|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 08:07:14.479472|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 09:07:59.876628|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 09:07:59.876855|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 10:10:46.664223|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 10:10:46.664380|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 11:12:28.499055|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 11:12:28.499408|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 12:14:29.664846|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 12:14:29.665039|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 13:17:02.744736|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 13:17:02.744889|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 14:19:39.304819|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 14:19:39.342262|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 15:23:37.605504|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 15:23:37.610120|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 16:25:24.127034|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 16:25:24.127172|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 17:26:48.110436|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 17:26:48.110586|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 18:29:16.179706|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 18:29:16.179827|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 19:31:00.055201|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 19:31:00.055340|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 20:32:38.787207|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 20:32:38.787319|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 21:35:27.254076|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 21:35:27.254316|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 22:38:03.808879|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 22:38:03.809063|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-28 23:40:40.377507|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-28 23:40:40.377661|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 00:42:59.798910|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 00:42:59.799065|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 01:45:31.039371|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 01:45:31.039580|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 02:47:55.713121|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 02:47:55.713279|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 03:48:51.993548|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 03:48:51.993720|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 04:49:46.216249|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 04:49:46.216415|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 05:51:06.093323|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 05:51:06.093537|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 06:53:21.139733|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 06:53:21.139902|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 07:56:04.399115|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 07:56:04.399363|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 08:58:37.148551|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 08:58:37.148727|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 10:00:34.097331|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 10:00:34.097475|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 11:01:59.428575|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 11:01:59.428727|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 12:03:15.330918|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 12:03:15.338790|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 13:04:26.503233|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 13:04:26.503402|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 14:05:32.144040|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 14:05:32.144168|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 15:07:21.978507|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 15:07:21.978696|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 16:08:50.585197|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 16:08:50.585332|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 17:10:26.742550|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 17:10:26.742719|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 18:12:40.809299|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 18:12:40.809531|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 19:14:21.412410|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 19:14:21.412644|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 20:15:45.341574|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 20:15:45.341715|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 21:17:11.162151|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 21:17:11.162270|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 22:18:38.388525|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 22:18:38.388651|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-29 23:20:15.727121|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-29 23:20:15.727298|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 00:23:11.010737|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 00:23:11.010958|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 01:24:25.554221|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 01:24:25.554411|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 02:26:28.587087|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 02:26:28.587219|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 03:28:01.906299|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 03:28:01.906439|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 04:30:00.411212|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 04:30:00.411409|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 05:32:08.430138|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 05:32:08.430309|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 06:34:24.649004|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 06:34:24.649127|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 07:36:41.371466|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 07:36:41.371638|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 08:39:14.372653|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 08:39:14.383856|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 09:42:09.029957|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 09:42:09.049115|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 10:45:15.608477|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 10:45:15.608760|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 11:47:28.233147|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 11:47:28.233306|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 12:49:06.972473|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 12:49:06.972671|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 13:51:06.796577|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 13:51:06.796761|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 14:54:26.709059|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 14:54:26.709266|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 15:56:51.185876|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 15:56:51.186132|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 16:58:33.210512|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 16:58:33.210647|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 18:01:55.306630|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 18:01:55.306825|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 19:03:41.237956|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 19:03:41.238085|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 20:06:02.539385|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 20:06:02.539565|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 21:08:59.303698|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 21:08:59.303896|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 22:11:52.960026|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 22:11:52.960197|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-30 23:13:55.201891|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-30 23:13:55.202048|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 00:15:30.803981|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 00:15:30.814294|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 01:16:50.831417|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 01:16:50.831602|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 02:18:29.909229|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 02:18:29.929421|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 03:21:17.069249|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 03:21:17.089471|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 04:23:34.547412|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 04:23:34.552337|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 05:25:38.303536|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 05:25:38.313606|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 06:27:37.488267|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 06:27:37.498487|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 07:30:12.887521|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 07:30:12.917607|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 08:34:13.905352|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 08:34:13.970515|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 09:38:12.580333|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 09:38:12.642707|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 10:41:32.523461|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 10:41:32.542729|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 11:43:32.338538|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 11:43:32.361068|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 12:22:31.441371|INFO    |Query         |   | query from 3 87.205.93.229:6996 issued: login with account "serveradmin"(serveradmin)
+2016-03-31 12:46:22.358185|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 12:46:22.405002|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 13:49:47.396783|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 13:49:47.399219|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 14:52:44.927107|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 14:52:44.939172|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 15:55:14.040110|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 15:55:14.087783|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 16:56:37.496445|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 16:56:37.512861|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 17:57:59.356764|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 17:57:59.462944|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 18:59:23.364403|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 18:59:23.373794|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 20:00:08.512453|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 20:00:08.531629|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 21:03:14.034445|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 21:03:14.055797|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 22:06:32.053900|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 22:06:32.075074|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-31 23:10:45.360264|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-31 23:10:45.375686|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 00:02:03.834659|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-04-01 00:02:03.887043|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-04-01 00:15:30.675346|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 00:15:30.682307|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 01:19:08.531078|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 01:19:08.548181|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 02:22:46.205517|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 02:22:46.225593|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 03:25:33.981009|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 03:25:34.004509|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 04:29:06.214643|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 04:29:06.234804|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 05:32:46.460942|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 05:32:46.468659|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 06:36:08.929134|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 06:36:08.933255|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 07:39:22.759300|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 07:39:22.774781|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 08:42:30.166141|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 08:42:30.180206|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 09:44:37.092290|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 09:44:37.097084|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 10:47:13.161964|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 10:47:13.162133|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 11:49:44.706798|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 11:49:44.706930|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 12:52:20.431319|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 12:52:20.431437|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 13:57:18.306088|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 13:57:18.306222|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 15:00:51.104372|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 15:00:51.104490|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 16:04:30.230288|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 16:04:30.230417|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 17:07:13.628008|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 17:07:13.628130|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 18:11:36.700353|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 18:11:36.700482|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 19:15:25.307132|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 19:15:25.307241|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 20:20:06.305689|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 20:20:06.305806|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 21:24:41.948797|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 21:24:41.957880|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 22:28:24.080230|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 22:28:24.080340|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-01 23:32:27.103108|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-01 23:32:27.103239|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 00:35:47.768143|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 00:35:47.787061|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 01:38:51.817573|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 01:38:51.817712|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 02:40:43.634264|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 02:40:43.634407|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 03:42:23.397018|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 03:42:23.397110|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 04:44:01.642038|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 04:44:01.642132|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 05:46:01.456618|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 05:46:01.456799|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 06:48:23.763208|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 06:48:23.763310|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 07:50:37.588033|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 07:50:37.588212|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 08:53:33.603893|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 08:53:33.604018|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 09:57:05.026679|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 09:57:05.026790|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 10:59:39.882686|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 10:59:39.882794|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 12:01:59.923776|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 12:01:59.923916|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 13:04:01.413155|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 13:04:01.413344|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 14:07:11.126540|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 14:07:11.126671|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 15:09:14.813649|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 15:09:14.813787|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 16:11:46.218098|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 16:11:46.218199|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 17:14:48.350991|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 17:14:48.351128|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 18:16:59.473746|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 18:16:59.482651|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 19:19:46.958901|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 19:19:46.959041|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 20:22:34.126857|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 20:22:34.127001|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 21:26:09.102908|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 21:26:09.103003|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 22:29:07.920089|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 22:29:07.920246|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-02 23:32:14.996328|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-02 23:32:14.996512|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 00:34:24.238509|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 00:34:24.238627|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 01:36:52.078807|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 01:36:52.078908|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 02:39:06.828173|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 02:39:06.828292|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 03:41:39.585279|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 03:41:39.585403|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 04:44:17.230844|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 04:44:17.230953|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 05:46:33.627988|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 05:46:33.628149|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 06:48:10.347901|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 06:48:10.348077|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 07:49:55.131244|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 07:49:55.131348|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 08:52:37.507512|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 08:52:37.507640|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 09:55:31.516909|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 09:55:31.517038|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 10:58:25.040628|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 10:58:25.040738|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 12:01:23.700315|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 12:01:23.700416|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 13:04:48.176819|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 13:04:48.176943|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 14:08:42.603230|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 14:08:42.603401|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 15:11:58.413743|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 15:11:58.413860|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 16:15:51.971677|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 16:15:51.971826|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 17:18:31.324713|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 17:18:31.324825|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 18:20:55.195169|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 18:20:55.195326|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 19:23:32.217643|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 19:23:32.217757|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 20:25:38.825766|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 20:25:38.825904|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 21:28:21.695512|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 21:28:21.695657|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 22:30:41.479992|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 22:30:41.480151|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-03 23:33:48.646176|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-03 23:33:48.646310|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 00:35:47.890892|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 00:35:47.890985|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 01:37:58.276137|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 01:37:58.276247|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 02:40:01.664291|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 02:40:01.664392|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 03:42:36.935346|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 03:42:36.935501|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 04:45:15.236974|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 04:45:15.237110|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 05:47:44.186321|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 05:47:44.186450|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 06:51:30.115994|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 06:51:30.116110|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 07:55:46.355658|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 07:55:46.355770|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 08:59:21.840229|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 08:59:21.840374|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 10:04:08.558960|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 10:04:08.559074|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 11:08:06.846609|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 11:08:06.846771|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 12:12:04.267047|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 12:12:04.267157|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 13:14:32.454834|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 13:14:32.454937|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 14:17:21.655840|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 14:17:21.655971|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 15:20:09.868494|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 15:20:09.868624|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 16:22:55.008446|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 16:22:55.008602|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 17:25:10.452247|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 17:25:10.459036|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 18:27:49.090786|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 18:27:49.090947|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 19:31:04.196369|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 19:31:04.196687|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 20:34:01.602682|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 20:34:01.602839|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 21:36:19.311464|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 21:36:19.311598|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 22:38:05.832309|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 22:38:05.832456|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-04 23:40:35.464318|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-04 23:40:35.464435|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 00:43:03.289270|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 00:43:03.289389|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 01:45:55.240307|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 01:45:55.240424|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 02:48:51.856734|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 02:48:51.856886|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 03:52:07.025611|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 03:52:07.025721|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 04:55:17.688951|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 04:55:17.689043|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 05:58:42.678309|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 05:58:42.678412|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 07:03:27.850441|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 07:03:27.850578|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 08:06:37.202810|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 08:06:37.202925|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 09:09:16.417146|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 09:09:16.523855|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 10:11:39.959847|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 10:11:39.959968|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 11:13:26.899277|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 11:13:26.899400|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 12:15:18.180891|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 12:15:18.181063|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 13:17:24.712948|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 13:17:24.713104|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 14:18:55.594053|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 14:18:55.594176|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 15:20:51.320631|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 15:20:51.320756|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 16:23:27.992507|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 16:23:28.169419|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 17:25:45.677930|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 17:25:45.678452|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 18:28:01.345348|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 18:28:01.345498|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 19:29:51.271187|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 19:29:51.271326|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 20:31:56.637374|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 20:31:56.637534|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 21:34:06.160840|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 21:34:06.160965|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 22:35:49.588383|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 22:35:49.588521|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-05 23:37:28.044191|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-05 23:37:28.044312|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 00:39:01.478472|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 00:39:01.478590|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 01:40:54.473403|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 01:40:54.473565|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 02:42:29.174656|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 02:42:29.174777|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 03:45:31.927717|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 03:45:31.928272|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 04:47:48.511695|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 04:47:48.511866|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 05:50:07.504747|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 05:50:07.508498|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 06:52:07.062998|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 06:52:07.077324|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 07:54:02.587536|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 07:54:02.587665|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 08:56:55.772911|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 08:56:55.773069|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 09:59:47.947277|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 09:59:47.947398|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 11:02:06.530807|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 11:02:06.530914|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 12:04:31.850977|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 12:04:31.851096|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 13:06:34.332485|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 13:06:34.332612|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 14:09:08.635996|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 14:09:08.636263|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 15:11:49.403958|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 15:11:49.404129|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 16:14:15.140598|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 16:14:15.140765|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 17:16:59.167730|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 17:16:59.167891|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 18:20:23.346764|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 18:20:23.346917|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 19:23:24.029263|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 19:23:24.029394|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 19:30:38.229518|WARNING |PktHandler    |   | detected incorrectly running system clock (>)
+2016-04-06 20:26:30.052796|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 20:26:30.052949|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 21:29:06.870680|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 21:29:06.870811|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 22:31:33.466001|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 22:31:33.466153|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-06 23:34:47.640483|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-06 23:34:47.640635|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 00:37:40.226674|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 00:37:40.226848|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 01:40:15.165658|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 01:40:15.165771|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 02:42:40.349027|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 02:42:40.349182|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 03:45:04.060862|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 03:45:04.061013|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 04:47:20.687506|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 04:47:20.687651|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 05:49:36.329903|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 05:49:36.330035|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 06:52:54.046032|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 06:52:54.046198|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 07:55:18.226517|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 07:55:18.226728|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 08:57:41.403754|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 08:57:41.403872|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 10:00:04.706767|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 10:00:04.706908|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 11:02:54.005856|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 11:02:54.006063|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 12:06:21.811359|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 12:06:21.811506|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 13:08:58.527749|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 13:08:58.527904|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 14:12:22.725475|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 14:12:22.725676|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 15:15:01.934993|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 15:15:01.935181|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 16:18:10.526574|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 16:18:10.526693|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 17:21:26.576449|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 17:21:26.576577|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 18:24:40.297827|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 18:24:40.297940|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 19:27:56.389348|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 19:27:56.390857|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 20:31:02.269383|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 20:31:02.269527|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 21:33:59.310838|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 21:33:59.310964|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 22:36:24.664185|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 22:36:24.664353|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-07 23:38:37.571968|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-07 23:38:37.572135|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 00:41:47.265702|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 00:41:47.265915|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 01:44:43.000926|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 01:44:43.001064|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 02:47:10.596004|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 02:47:10.596217|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 03:49:31.585319|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 03:49:31.585496|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 04:52:07.162348|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 04:52:07.162539|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 05:54:43.389959|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 05:54:43.390097|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 06:57:32.005852|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 06:57:32.005980|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 08:00:41.935707|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 08:00:41.935837|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 09:04:22.357787|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 09:04:22.358003|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 10:07:37.967159|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 10:07:37.967318|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 11:10:59.245461|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 11:10:59.245601|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 12:15:08.115450|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 12:15:08.115576|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 13:18:43.802474|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 13:18:43.802641|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 14:22:28.091779|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 14:22:28.091962|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 15:25:39.468703|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 15:25:39.468882|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 16:28:21.597357|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 16:28:21.597549|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 17:31:05.514466|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 17:31:05.514619|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 18:34:12.070092|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 18:34:12.070236|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 19:38:04.517319|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 19:38:04.517501|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 20:41:16.807738|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 20:41:16.807871|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 21:44:10.128237|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 21:44:10.128470|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 22:47:28.035319|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 22:47:28.035464|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-08 23:51:34.043976|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-08 23:51:34.044100|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 00:54:49.092949|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 00:54:49.093083|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 01:57:42.060153|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 01:57:42.060311|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 03:00:22.083030|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 03:00:22.083214|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 04:02:42.103151|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 04:02:42.103328|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 05:05:13.336084|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 05:05:13.336253|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 06:08:58.260089|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 06:08:58.268176|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 07:12:21.308945|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 07:12:21.309153|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 08:16:56.467299|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 08:16:56.467534|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 09:20:24.903469|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 09:20:24.903618|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 10:23:20.475916|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 10:23:20.476028|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 11:26:11.475707|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 11:26:11.475818|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 12:29:21.465855|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 12:29:21.465995|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 13:32:31.841846|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 13:32:31.864101|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 14:36:30.366110|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 14:36:30.366248|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 15:39:16.100227|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 15:39:16.100387|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 16:42:35.032453|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 16:42:35.032613|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 17:46:45.180213|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 17:46:45.180325|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 18:51:11.233164|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 18:51:11.233303|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 19:54:38.467956|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 19:54:38.468097|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 20:58:58.638046|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 20:58:58.638202|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 22:02:50.054527|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 22:02:50.054680|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-09 23:06:47.496065|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-09 23:06:47.496234|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 00:10:41.951540|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 00:10:41.951767|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 01:15:26.124934|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 01:15:26.125070|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 02:18:11.987217|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 02:18:11.987345|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 03:21:37.227163|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 03:21:37.227318|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 04:25:13.179676|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 04:25:13.179859|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 05:29:09.199241|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 05:29:09.199370|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 06:33:06.303296|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 06:33:06.303472|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 07:36:55.422625|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 07:36:55.422784|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 08:42:18.307842|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 08:42:18.308013|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 09:46:53.364910|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 09:46:53.365037|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 10:51:04.042414|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 10:51:04.042585|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 11:54:27.119162|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 11:54:27.119317|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 12:57:34.589080|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 12:57:34.589283|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 14:00:53.467254|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 14:00:53.467412|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 15:03:33.453964|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 15:03:33.454107|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 16:05:44.550251|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 16:05:44.550473|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 17:07:45.120106|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 17:07:45.120217|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 18:10:13.599680|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 18:10:13.599825|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 19:12:59.688305|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 19:12:59.688420|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 20:16:42.734977|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 20:16:42.735159|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 21:19:45.179819|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 21:19:45.179911|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 22:23:17.606621|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 22:23:17.606777|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-10 23:25:48.965315|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-10 23:25:48.965432|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 00:28:26.452316|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 00:28:26.452462|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 01:31:47.736351|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 01:31:47.736451|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 02:34:42.950946|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 02:34:42.951054|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 03:37:12.110080|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 03:37:12.110208|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 04:39:26.656152|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 04:39:26.656264|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 05:41:57.947861|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 05:41:57.947999|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 06:44:40.572868|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 06:44:40.573017|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 07:47:03.703301|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 07:47:03.703478|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 08:49:14.062520|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 08:49:14.062684|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 09:52:20.161721|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 09:52:20.177510|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 10:56:00.604296|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 10:56:00.604454|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 11:59:10.758655|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 11:59:10.758796|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 13:02:32.773039|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 13:02:32.773199|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 14:05:33.052039|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 14:05:33.052193|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 15:08:10.540814|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 15:08:10.540955|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 16:11:04.438726|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 16:11:04.438899|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 17:15:05.326244|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 17:15:05.326407|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 18:18:54.734495|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 18:18:54.734616|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 19:22:34.968215|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 19:22:34.968376|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 20:25:40.563190|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 20:25:40.563340|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 21:29:28.798850|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 21:29:28.798998|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 22:33:06.243483|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 22:33:06.243609|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-11 23:36:45.824979|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-11 23:36:45.825126|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 00:41:27.707774|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 00:41:27.707886|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 01:45:01.691907|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 01:45:01.692110|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 02:49:00.537865|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 02:49:00.538001|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 03:52:10.461395|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 03:52:10.461543|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 04:55:15.061861|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 04:55:15.062063|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 05:58:56.331563|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 05:58:56.331715|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 07:01:52.403156|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 07:01:52.412246|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 08:04:46.491920|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 08:04:46.492066|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 09:07:53.702707|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 09:07:53.702829|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 10:11:20.652737|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 10:11:20.652904|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 11:14:04.729388|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 11:14:04.729567|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 12:17:02.482589|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 12:17:02.482751|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 13:20:10.841042|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 13:20:10.841174|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 14:23:51.811611|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 14:23:51.811794|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 15:27:09.684526|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 15:27:09.684724|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 16:30:44.503742|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 16:30:44.503923|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 17:33:53.548098|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 17:33:53.548212|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 18:37:25.240261|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 18:37:25.240428|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 19:40:00.646384|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 19:40:00.646562|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 20:43:25.951726|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 20:43:25.951845|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 21:47:03.871144|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 21:47:03.871373|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 22:50:45.960453|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 22:50:45.960631|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-12 23:53:10.128636|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-12 23:53:10.128751|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 00:55:12.906660|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 00:55:12.906984|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 01:57:48.720717|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 01:57:48.720868|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 03:00:33.420457|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 03:00:33.420574|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 04:03:33.633962|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 04:03:33.643616|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 05:06:13.562979|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 05:06:13.563152|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 06:08:19.769080|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 06:08:19.769206|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 07:11:18.623345|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 07:11:18.623496|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 08:14:39.398593|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 08:14:39.398737|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 09:17:44.233171|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 09:17:44.245135|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 10:21:31.914147|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 10:21:31.914283|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 11:24:30.915179|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 11:24:30.915308|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 12:27:59.427921|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 12:27:59.428037|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 13:31:09.583510|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 13:31:09.583651|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 14:34:45.152560|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 14:34:45.152703|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 15:37:51.404827|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 15:37:51.404945|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 16:41:17.533235|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 16:41:17.533377|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 17:44:16.185200|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 17:44:16.185345|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 18:46:56.708052|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 18:46:56.708201|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 19:35:53.593755|INFO    |Query         |   | query from 6 213.238.102.165:10699 issued: login with account "serveradmin"(serveradmin)
+2016-04-13 19:49:47.774279|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 19:49:47.774445|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 20:52:44.736850|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 20:52:44.736953|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 21:55:51.858737|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 21:55:51.858870|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-13 22:58:21.996763|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-13 22:58:21.996941|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 00:00:37.101457|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 00:00:37.111356|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 01:02:48.818292|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 01:02:48.818431|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 02:05:34.567458|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 02:05:34.567625|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 03:08:45.118443|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 03:08:45.118600|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 04:12:14.504182|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 04:12:14.504330|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 05:15:17.629886|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 05:15:17.630042|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 06:18:47.828627|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 06:18:47.828765|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 07:21:20.241701|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 07:21:20.241832|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 08:24:12.092514|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 08:24:12.092661|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 09:26:45.248653|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 09:26:45.248793|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 10:28:52.215058|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 10:28:52.215186|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 11:30:24.544034|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 11:30:24.544172|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 12:31:51.495906|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 12:31:51.496042|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 13:33:04.878366|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 13:33:04.878543|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 14:34:37.618798|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 14:34:37.618908|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 15:36:46.894824|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 15:36:46.894957|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 16:38:58.230860|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 16:38:58.230981|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 17:40:47.981831|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 17:40:47.981963|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 18:42:19.711121|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 18:42:19.711237|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 19:44:13.756186|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 19:44:13.756308|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 19:57:41.645049|WARNING |PktHandler    |   | detected incorrectly running system clock (>)
+2016-04-14 19:57:42.483576|WARNING |PktHandler    |   | detected incorrectly running system clock (>)
+2016-04-14 20:46:43.487564|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 20:46:43.487718|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 21:48:33.365320|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 21:48:33.365472|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 22:50:16.635552|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 22:50:16.635730|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-14 23:52:05.221819|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-14 23:52:05.221968|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 00:54:50.625456|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 00:54:50.625601|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 01:57:38.247820|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 01:57:38.247956|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 02:59:04.767891|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 02:59:04.768032|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 04:01:33.174497|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 04:01:33.174681|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 05:03:50.396691|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 05:03:50.396795|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 06:06:47.776077|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 06:06:48.062870|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 07:08:36.130952|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 07:08:36.131106|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 08:11:05.744454|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 08:11:05.744672|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 09:12:44.948040|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 09:12:44.948150|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 10:15:52.623924|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 10:15:52.624041|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 11:17:55.236861|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 11:17:55.236983|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 12:19:40.257694|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 12:19:40.257787|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 13:22:55.820224|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 13:22:55.820358|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 14:25:00.145143|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 14:25:00.145258|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 15:27:40.094238|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 15:27:40.094352|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-04-15 16:30:30.436980|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-04-15 16:30:30.468690|ERROR   |              |   | Unable to connect to primary address, trying secondary

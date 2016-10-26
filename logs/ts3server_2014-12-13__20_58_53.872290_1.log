@@ -1,0 +1,7 @@
+2014-12-13 20:58:56.769208|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2014-12-16 15:44:44.588226|INFO    |VirtualServer |  1| permission 'i_client_move_power'(id:202) with values (value:75) was added by '&#960;cKe&#165;&#254;l'(id:2) to client (id:2)
+2014-12-16 15:44:49.580422|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:80) was added by '&#960;cKe&#165;&#254;l'(id:2) to client (id:2)
+2014-12-16 15:45:05.307542|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:75) was added by '&#960;cKe&#165;&#254;l'(id:2) to client (id:63)
+2014-12-16 15:45:05.351577|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:75) was added by '&#960;cKe&#165;&#254;l'(id:2) to client (id:63)
+2014-12-16 15:45:09.321852|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_client_needed_move_power'(id:32971) was deleted by '&#960;cKe&#165;&#254;l'(id:2) from client (id:63)
+2014-12-16 15:45:13.676159|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:10) was added by '&#960;cKe&#165;&#254;l'(id:2) to client (id:63)

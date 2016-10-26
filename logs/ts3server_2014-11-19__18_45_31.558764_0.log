@@ -1,0 +1,15 @@
+2014-11-19 18:45:31.559107|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2014-11-19 18:45:31.572460|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab092.2 #1 SMP Tue Jul 8 10:35:55 MSK 2014 x86_64 Binary: 64bit
+2014-11-19 18:45:31.581400|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2014-11-19 18:45:31.581472|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2014-11-19 18:45:31.584088|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2014-11-19 18:45:31.694284|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2014-11-19 18:45:33.897670|INFO    |              |   | Puzzle precompute time: 2167
+2014-11-19 18:45:33.912863|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2014-11-19 18:45:34.038016|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2014-11-19 18:45:34.038780|INFO    |Query         |   | listening on 0.0.0.0:10011
+2014-11-25 11:41:33.990457|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Odwzorowanie nazwy jest chwilowo niemo&#380;liwe) 11
+2014-11-25 11:51:14.039677|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Odwzorowanie nazwy jest chwilowo niemo&#380;liwe) 11
+2014-11-25 12:11:14.228783|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Odwzorowanie nazwy jest chwilowo niemo&#380;liwe) 11
+2014-11-25 15:41:15.315415|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Odwzorowanie nazwy jest chwilowo niemo&#380;liwe) 11
+2014-11-25 22:31:54.505003|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

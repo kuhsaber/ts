@@ -1,0 +1,207 @@
+2015-06-13 22:05:12.209832|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.2 (2014-12-15 14:43:52)
+2015-06-13 22:05:12.210197|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab106.4 #1 SMP Fri Mar 27 15:19:28 MSK 2015 x86_64 Binary: 64bit
+2015-06-13 22:05:12.766835|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-06-13 22:05:13.098452|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2015-06-13 22:05:13.819883|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-06-13 22:05:21.490652|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 22:05:21.490776|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 22:05:21.740604|INFO    |Accounting    |   | Licensing Information
+2015-06-13 22:05:21.740757|INFO    |Accounting    |   | type              : Non-profit
+2015-06-13 22:05:21.740847|INFO    |Accounting    |   | starting date     : Mon Dec 24 00:00:00 2012
+2015-06-13 22:05:21.740896|INFO    |Accounting    |   | ending date       : Sat Jun 29 00:00:00 2013
+2015-06-13 22:05:21.740976|INFO    |Accounting    |   | max virtualservers: 10
+2015-06-13 22:05:21.741077|INFO    |Accounting    |   | max slots         : 512
+2015-06-13 22:05:37.342236|INFO    |              |   | Puzzle precompute time: 14270
+2015-06-13 22:05:37.398557|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-06-13 22:05:38.339258|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-06-13 22:05:38.339384|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 22:05:38.339429|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 22:05:38.351077|INFO    |Query         |   | listening on 0.0.0.0:10011
+2015-06-13 23:17:53.784846|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 23:17:53.785901|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 23:17:53.786046|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 00:29:08.200888|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 00:29:08.201818|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 00:29:08.201933|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 01:39:09.822359|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 01:39:09.830458|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 01:39:09.830589|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 02:47:45.193400|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 02:47:45.193506|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 03:55:46.748529|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 03:55:46.748692|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 05:01:05.485406|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 05:01:05.485568|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 06:08:16.917753|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 06:08:16.917876|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 07:16:28.018616|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 07:16:28.018757|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 08:27:29.228849|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 08:27:29.229656|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 08:27:29.229779|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 09:41:01.259276|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 09:41:01.347864|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 09:41:01.347987|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 10:53:33.948684|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 10:53:33.949865|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 10:53:33.949936|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 12:04:35.751579|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 12:04:35.770275|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 12:04:35.770334|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 13:19:40.128884|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 13:19:40.129727|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 13:19:40.129810|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 14:33:16.144829|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 14:33:16.145649|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 14:33:16.145756|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 15:42:53.030488|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 15:42:53.030693|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 16:52:05.997448|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 16:52:05.997659|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 18:05:17.053313|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 18:05:17.065043|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 18:05:17.065163|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 19:17:35.358861|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 19:17:35.360234|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 19:17:35.360328|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 20:29:47.799688|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 20:29:47.800558|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 20:29:47.800687|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 21:42:12.989893|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 21:42:13.009118|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 21:42:13.009219|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-14 22:56:32.632072|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-14 22:56:32.637686|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-14 22:56:32.637797|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 00:08:47.532768|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 00:08:47.534083|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 00:08:47.534885|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 01:18:18.885543|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 01:18:18.885667|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 02:25:03.732909|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 02:25:03.733099|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 03:31:36.675394|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 03:31:36.675586|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 04:37:36.650860|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 04:37:36.651021|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 05:45:01.501257|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 05:45:01.501458|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 06:53:04.230045|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 06:53:04.230171|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 08:02:25.079777|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 08:02:25.079944|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 09:11:11.201570|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 09:11:11.201736|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 10:21:59.081562|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 10:21:59.082220|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 10:21:59.082692|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 11:33:13.665123|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 11:33:13.668801|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 11:33:13.668980|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 12:47:20.471450|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 12:47:20.472240|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 12:47:20.472318|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 14:02:08.897579|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 14:02:08.898917|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 14:02:08.914220|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 15:16:08.943699|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 15:16:08.944498|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 15:16:08.944608|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 16:29:19.223430|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 16:29:19.224567|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 16:29:19.225002|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 17:46:27.284819|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 17:46:27.285405|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 17:46:27.285484|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 18:58:40.358824|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 18:58:40.359634|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 18:58:40.359713|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 20:09:02.001231|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-15 20:09:02.001739|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 20:09:02.001817|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 21:16:16.438182|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 21:16:16.438377|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 22:25:10.082168|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 22:25:10.082367|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-15 23:33:09.812669|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-15 23:33:09.814175|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 00:39:56.774253|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 00:39:56.774415|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 01:49:21.456922|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 01:49:21.457063|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 02:55:43.888046|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 02:55:43.888189|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 04:03:11.321075|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 04:03:11.321318|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 05:10:01.447636|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 05:10:01.447757|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 06:17:04.875199|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 06:17:04.875334|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 07:26:21.068705|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 07:26:21.068928|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 08:37:27.516750|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 08:37:27.517292|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 08:37:27.517350|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 09:48:01.752398|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 09:48:01.753262|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 09:48:01.753359|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 11:01:41.424945|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 11:01:41.425466|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 11:01:41.425541|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 12:13:20.790037|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 12:13:20.790551|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 12:13:20.790632|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 13:22:49.001049|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 13:22:49.001208|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 14:35:56.707766|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 14:35:56.708619|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 14:35:56.708682|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 15:47:28.126607|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 15:47:28.127444|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 15:47:28.127586|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 17:00:54.178148|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 17:00:54.178960|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 17:00:54.179162|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 18:12:55.536820|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 18:12:55.537276|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 18:12:55.537357|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 19:27:27.210432|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 19:27:27.211781|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 19:27:27.211910|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 20:42:33.998716|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 20:42:33.999801|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 20:42:33.999994|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 21:52:17.429531|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 21:52:17.429662|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-16 23:05:12.996708|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-16 23:05:13.055413|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-16 23:05:13.055537|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 00:17:25.429465|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-17 00:17:25.441958|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 00:17:25.442084|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 01:30:55.708395|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-17 01:30:55.708946|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 01:30:55.709006|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 02:38:05.938013|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 02:38:05.938221|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 03:45:11.356576|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 03:45:11.356736|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 04:51:36.642772|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 04:51:36.642920|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 05:59:31.039053|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 05:59:31.039175|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 07:10:48.951514|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-17 07:10:48.952059|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 07:10:48.952132|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 08:25:29.362467|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-17 08:25:29.363056|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 08:25:29.363136|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 09:42:01.377579|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-17 09:42:01.378061|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 09:42:01.378124|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 10:59:05.980627|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-17 10:59:05.998216|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 10:59:05.998487|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-17 12:14:14.769143|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-17 12:14:14.770052|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-17 12:14:14.770116|ERROR   |              |   | Unable to connect to primary address, trying secondary

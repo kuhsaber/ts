@@ -1,0 +1,23 @@
+2016-02-08 23:42:06.306481|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.2 (2014-12-15 14:43:52)
+2016-02-08 23:42:06.317144|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab111.12 #1 SMP Thu Sep 17 11:38:20 MSK 2015 x86_64 Binary: 64bit
+2016-02-08 23:42:06.622818|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-02-08 23:42:06.623086|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2016-02-08 23:42:06.625051|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2016-02-08 23:42:07.987248|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-02-08 23:42:07.987432|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-02-08 23:42:08.160359|INFO    |Accounting    |   | Licensing Information
+2016-02-08 23:42:08.160816|INFO    |Accounting    |   | type              : Non-profit
+2016-02-08 23:42:08.160980|INFO    |Accounting    |   | starting date     : Mon Dec 24 00:00:00 2012
+2016-02-08 23:42:08.161090|INFO    |Accounting    |   | ending date       : Sat Jun 29 00:00:00 2013
+2016-02-08 23:42:08.161259|INFO    |Accounting    |   | max virtualservers: 10
+2016-02-08 23:42:08.161350|INFO    |Accounting    |   | max slots         : 512
+2016-02-08 23:42:10.902198|INFO    |              |   | Puzzle precompute time: 2669
+2016-02-08 23:42:10.906201|ERROR   |FileManager   |   | listen() failed: 98
+2016-02-08 23:42:10.906378|ERROR   |FileManager   |   | bind failed on 0.0.0.0:30033
+2016-02-08 23:42:11.404695|ERROR   |VirtualSvrMgr |   | loading VirtualServer(1) failed to start, error: unable to bind network port
+2016-02-08 23:42:11.417117|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2016-02-08 23:42:11.419412|ERROR   |Query         |   | bind failed on 0.0.0.0:10011
+2016-02-08 23:42:11.510186|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-02-08 23:42:11.510386|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-02-08 23:42:11.624817|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-02-08 23:42:11.625233|ERROR   |              |   | Unable to connect to primary address, trying secondary

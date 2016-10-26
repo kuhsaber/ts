@@ -1,0 +1,1124 @@
+2015-02-13 14:35:31.652007|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-02-13 14:38:41.001591|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46126'(id:139)
+2015-02-13 14:38:41.179037|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 14:41:40.406078|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54842'(id:139)
+2015-02-13 14:41:40.608205|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 14:44:40.845629|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53981'(id:139)
+2015-02-13 14:44:41.038058|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 14:47:40.349363|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:34777'(id:139)
+2015-02-13 14:47:40.552585|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 14:50:40.439288|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58336'(id:139)
+2015-02-13 14:50:40.619094|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 14:53:40.404993|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45710'(id:139)
+2015-02-13 14:53:40.691473|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 14:56:40.588040|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42981'(id:139)
+2015-02-13 14:56:40.793432|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 14:59:40.435991|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44410'(id:139)
+2015-02-13 14:59:40.623785|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:02:40.292154|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46869'(id:139)
+2015-02-13 15:02:40.502015|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:05:40.599091|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40064'(id:139)
+2015-02-13 15:05:40.804182|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:08:40.420783|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51252'(id:139)
+2015-02-13 15:08:40.609944|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:11:40.205619|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42475'(id:139)
+2015-02-13 15:11:40.377010|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:14:40.354148|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:34348'(id:139)
+2015-02-13 15:14:40.632467|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:17:40.737885|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:34027'(id:139)
+2015-02-13 15:17:40.959259|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:20:40.927642|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57893'(id:139)
+2015-02-13 15:20:41.158566|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:23:40.625456|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:39254'(id:139)
+2015-02-13 15:23:40.834156|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:26:40.523316|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47976'(id:139)
+2015-02-13 15:26:40.706436|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:29:40.410896|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60956'(id:139)
+2015-02-13 15:29:40.615645|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:32:40.925878|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38707'(id:139)
+2015-02-13 15:32:41.321552|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:35:40.764678|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49257'(id:139)
+2015-02-13 15:35:41.124846|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:38:40.948277|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58307'(id:139)
+2015-02-13 15:38:41.376002|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:41:40.822382|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55355'(id:139)
+2015-02-13 15:41:41.016207|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:44:40.380783|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53956'(id:139)
+2015-02-13 15:44:40.590518|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:47:40.780634|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40442'(id:139)
+2015-02-13 15:47:41.093487|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:50:40.432992|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54562'(id:139)
+2015-02-13 15:50:40.649231|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:53:40.550988|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:34301'(id:139)
+2015-02-13 15:53:40.724023|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:56:40.154056|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58305'(id:139)
+2015-02-13 15:56:40.361831|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 15:59:40.535434|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51330'(id:139)
+2015-02-13 15:59:40.731066|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:03:10.489009|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43989'(id:139)
+2015-02-13 16:03:10.686612|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:06:10.434003|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54350'(id:139)
+2015-02-13 16:06:10.737436|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:09:10.666300|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38184'(id:139)
+2015-02-13 16:09:10.870884|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:12:11.071383|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46192'(id:139)
+2015-02-13 16:12:11.262342|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:15:10.712419|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52795'(id:139)
+2015-02-13 16:15:10.968411|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:18:10.834963|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52712'(id:139)
+2015-02-13 16:18:11.097089|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:21:10.382225|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48371'(id:139)
+2015-02-13 16:21:10.600228|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:24:10.399607|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45616'(id:139)
+2015-02-13 16:24:10.570131|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:27:10.943788|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50473'(id:139)
+2015-02-13 16:27:11.124474|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:30:10.688929|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33893'(id:139)
+2015-02-13 16:30:10.864344|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:33:10.551836|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:39025'(id:139)
+2015-02-13 16:33:10.844989|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:36:10.631373|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:39514'(id:139)
+2015-02-13 16:36:10.817870|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:39:10.704063|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47580'(id:139)
+2015-02-13 16:39:10.881990|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:42:10.208095|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45229'(id:139)
+2015-02-13 16:42:10.382442|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:45:10.110460|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:59995'(id:139)
+2015-02-13 16:45:10.290062|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:48:10.253078|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49430'(id:139)
+2015-02-13 16:48:10.527552|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:51:11.223781|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35050'(id:139)
+2015-02-13 16:51:11.546511|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:54:10.379899|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43053'(id:139)
+2015-02-13 16:54:10.551575|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 16:57:10.415940|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35418'(id:139)
+2015-02-13 16:57:10.592537|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:00:10.977403|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38115'(id:139)
+2015-02-13 17:00:11.310758|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:03:40.684141|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54214'(id:139)
+2015-02-13 17:03:40.878315|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:06:40.288706|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55620'(id:139)
+2015-02-13 17:06:40.587758|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:09:40.155616|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44202'(id:139)
+2015-02-13 17:09:40.444303|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:12:40.817258|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35848'(id:139)
+2015-02-13 17:12:41.009941|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:15:40.068359|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52418'(id:139)
+2015-02-13 17:15:40.256236|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:18:40.165282|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42549'(id:139)
+2015-02-13 17:18:40.361461|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:21:40.359820|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53219'(id:139)
+2015-02-13 17:21:40.550011|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:24:40.671434|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54727'(id:139)
+2015-02-13 17:24:40.847419|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:27:40.822977|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37975'(id:139)
+2015-02-13 17:27:41.020500|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:30:40.516141|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35472'(id:139)
+2015-02-13 17:30:40.696764|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:33:40.759246|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40067'(id:139)
+2015-02-13 17:33:40.989030|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:36:40.268559|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37581'(id:139)
+2015-02-13 17:36:40.462694|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:39:40.537554|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51397'(id:139)
+2015-02-13 17:39:40.726655|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:42:40.947656|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41944'(id:139)
+2015-02-13 17:42:41.162621|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:45:40.830431|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52107'(id:139)
+2015-02-13 17:45:41.035482|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:48:40.315911|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:34881'(id:139)
+2015-02-13 17:48:40.567734|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:51:41.144981|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49052'(id:139)
+2015-02-13 17:51:41.330125|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:54:40.725626|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:34729'(id:139)
+2015-02-13 17:54:40.897407|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 17:57:40.838451|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50998'(id:139)
+2015-02-13 17:57:41.018648|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:00:40.963329|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44504'(id:139)
+2015-02-13 18:00:41.173507|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:04:10.144446|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48776'(id:139)
+2015-02-13 18:04:10.439268|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:07:10.524323|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51632'(id:139)
+2015-02-13 18:07:10.719818|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:10:10.589349|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37519'(id:139)
+2015-02-13 18:10:10.792474|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:13:10.506509|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55373'(id:139)
+2015-02-13 18:13:10.806937|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:16:10.435629|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54851'(id:139)
+2015-02-13 18:16:10.734557|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:19:10.412715|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56125'(id:139)
+2015-02-13 18:19:10.671169|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:22:10.298722|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49706'(id:139)
+2015-02-13 18:22:10.563905|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:25:10.788741|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41595'(id:139)
+2015-02-13 18:25:10.971139|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:28:10.751450|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44051'(id:139)
+2015-02-13 18:28:10.938132|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:31:10.132849|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54591'(id:139)
+2015-02-13 18:31:10.401709|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:34:10.630451|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35757'(id:139)
+2015-02-13 18:34:10.955973|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:37:10.622680|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35993'(id:139)
+2015-02-13 18:37:10.797628|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:40:40.777831|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35482'(id:139)
+2015-02-13 18:40:41.119487|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:43:40.940852|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60715'(id:139)
+2015-02-13 18:43:41.247424|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:46:40.687781|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52775'(id:139)
+2015-02-13 18:46:40.916490|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:49:41.043184|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37989'(id:139)
+2015-02-13 18:49:41.369891|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:52:41.187432|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48431'(id:139)
+2015-02-13 18:52:41.414847|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:55:40.926345|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:39490'(id:139)
+2015-02-13 18:55:41.289924|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 18:58:40.105871|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53250'(id:139)
+2015-02-13 18:58:40.283553|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:02:10.636775|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:39781'(id:139)
+2015-02-13 19:02:10.823327|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:05:10.559199|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38262'(id:139)
+2015-02-13 19:05:10.877822|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:08:10.758326|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47373'(id:139)
+2015-02-13 19:08:10.945914|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:11:10.430914|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50592'(id:139)
+2015-02-13 19:11:10.718167|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:14:10.669815|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46011'(id:139)
+2015-02-13 19:14:10.866897|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:17:10.286840|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:34075'(id:139)
+2015-02-13 19:17:10.472050|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:20:40.726135|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33021'(id:139)
+2015-02-13 19:20:40.923297|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:23:40.151527|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:59245'(id:139)
+2015-02-13 19:23:40.413475|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:26:40.231034|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50463'(id:139)
+2015-02-13 19:26:40.576124|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:29:41.136002|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55402'(id:139)
+2015-02-13 19:29:41.369270|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:32:40.313706|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42597'(id:139)
+2015-02-13 19:32:40.487884|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:34:57.611952|INFO    |VirtualServer |  1| query client connected 'Unknown from 208.167.241.185:43116'(id:139)
+2015-02-13 19:34:57.768916|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:35:40.469790|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44183'(id:139)
+2015-02-13 19:35:40.671820|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:39:10.950997|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57216'(id:139)
+2015-02-13 19:39:11.123332|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:42:10.400286|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:39886'(id:139)
+2015-02-13 19:42:10.572067|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:45:10.769869|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50949'(id:139)
+2015-02-13 19:45:10.973888|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:46:15.813602|INFO    |VirtualServer |  1| permission 'b_channel_join_ignore_maxclients'(id:135) with values (value:1) was added by '!McKeyPL'(id:2) to channelgroup 'Channel Admin'(id:5)
+2015-02-13 19:46:44.358162|INFO    |VirtualServer |  1| client (id:259) was added to servergroup 'Prenium'(id:12) by client '!McKeyPL'(id:2)
+2015-02-13 19:47:29.227609|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'Scarlet'(id:16) by client '!McKeyPL'(id:2)
+2015-02-13 19:48:10.699356|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57505'(id:139)
+2015-02-13 19:48:10.968934|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:51:11.076074|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47195'(id:139)
+2015-02-13 19:51:11.290585|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:54:11.193347|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56148'(id:139)
+2015-02-13 19:54:11.388012|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:56:35.470860|INFO    |VirtualServer |  1| permission 'i_channel_join_power'(id:136) was deleted by '!McKeyPL'(id:2) from servergroup 'Random'(id:8)
+2015-02-13 19:56:38.748287|INFO    |VirtualServer |  1| permission 'i_channel_join_power'(id:136) with values (value:75, negated:0, skipchannel:0) was added by '!McKeyPL'(id:2) to servergroup 'Random'(id:8)
+2015-02-13 19:57:10.407096|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51519'(id:139)
+2015-02-13 19:57:10.701437|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 19:57:21.792631|INFO    |VirtualServer |  1| client 'ZUREK520'(id:23) was added to channelgroup 'Channel Admin'(id:5) by client 'Scarlet'(id:253) in channel 'Team 1'(id:245)
+2015-02-13 19:57:28.411189|INFO    |VirtualServer |  1| client 'ZUREK520'(id:23) was added to channelgroup 'Guest'(id:8) by client 'Scarlet'(id:253) in channel 'Team 1'(id:245)
+2015-02-13 19:59:43.146641|INFO    |VirtualServer |  1| client 'www.Gimper.Anal.PL\ReflinkiAto'(id:101) was added to channelgroup 'Channel Admin'(id:5) by client 'Kijori &#12510;&#12471;&#12517;&#12540;'(id:5) in channel 'Team 1'(id:245)
+2015-02-13 19:59:59.559652|INFO    |VirtualServer |  1| client 'www.Gimper.Anal.PL\ReflinkiAto'(id:101) was added to channelgroup 'Chlebek'(id:9) by client 'Kijori &#12510;&#12471;&#12517;&#12540;'(id:5) in channel 'Team 1'(id:245)
+2015-02-13 20:00:10.157891|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33835'(id:139)
+2015-02-13 20:00:10.539173|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:00:17.492151|INFO    |VirtualServer |  1| client 'www.Gimper.Anal.PL\ReflinkiAto'(id:101) was added to channelgroup 'Guest'(id:8) by client 'Kijori &#12510;&#12471;&#12517;&#12540;'(id:5) in channel 'Team 1'(id:245)
+2015-02-13 20:00:23.693631|INFO    |VirtualServer |  1| client 'Scarlet'(id:253) was added to channelgroup 'Chlebek'(id:9) by client 'Kijori &#12510;&#12471;&#12517;&#12540;'(id:5) in channel 'Team 1'(id:245)
+2015-02-13 20:00:31.241410|INFO    |VirtualServer |  1| client '!McKeyPL'(id:2) was added to channelgroup 'Chlebek'(id:9) by client 'Kijori &#12510;&#12471;&#12517;&#12540;'(id:5) in channel 'Team 1'(id:245)
+2015-02-13 20:00:34.665890|INFO    |VirtualServer |  1| client 'Scarlet'(id:253) was added to channelgroup 'Guest'(id:8) by client 'Scarlet'(id:253) in channel 'Team 1'(id:245)
+2015-02-13 20:00:36.317995|INFO    |VirtualServer |  1| client 'Scarlet'(id:253) was added to channelgroup 'Guest'(id:8) by client '!McKeyPL'(id:2) in channel 'Team 1'(id:245)
+2015-02-13 20:00:41.892304|INFO    |VirtualServer |  1| client 'Ruhisu'(id:262) was added to channelgroup 'Operator'(id:6) by client 'skradacz'(id:259) in channel 'Tribrony'(id:351)
+2015-02-13 20:02:15.743907|INFO    |VirtualServer |  1| channelgroup 'Chlebek'(id:9) was deleted by 'Scarlet'(id:253)
+2015-02-13 20:03:40.414406|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52610'(id:139)
+2015-02-13 20:03:40.683831|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:07:10.666976|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33951'(id:139)
+2015-02-13 20:07:10.863179|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:10:10.910326|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:36252'(id:139)
+2015-02-13 20:10:11.245586|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:10:23.037160|INFO    |VirtualServer |  1| servergroup 'Normal'(id:7) was copied by '!McKeyPL'(id:2) to 'Tribrony'(id:22)
+2015-02-13 20:10:46.498581|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1377219268, negated:0, skipchannel:0) was added by '!McKeyPL'(id:2) to servergroup 'Tribrony'(id:22)
+2015-02-13 20:11:17.290871|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:12:18.466577|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'Otaku'(id:19) by client 'Scarlet'(id:253)
+2015-02-13 20:13:10.733182|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60944'(id:139)
+2015-02-13 20:13:10.941622|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:15:16.628044|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) was deleted by '!McKeyPL'(id:2) from servergroup 'Tribrony'(id:22)
+2015-02-13 20:15:22.748795|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-237276588, negated:0, skipchannel:0) was added by '!McKeyPL'(id:2) to servergroup 'Tribrony'(id:22)
+2015-02-13 20:15:42.747021|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:15:45.518209|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:16:02.839819|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:16:06.228728|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:16:10.567893|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54500'(id:139)
+2015-02-13 20:16:10.959209|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:16:57.365382|INFO    |VirtualServer |  1| client (id:262) was added to servergroup 'Tribrony'(id:22) by client '!McKeyPL'(id:2)
+2015-02-13 20:17:01.163054|INFO    |VirtualServer |  1| client (id:260) was added to servergroup 'Tribrony'(id:22) by client '!McKeyPL'(id:2)
+2015-02-13 20:17:04.708963|INFO    |VirtualServer |  1| client (id:268) was added to servergroup 'Tribrony'(id:22) by client '!McKeyPL'(id:2)
+2015-02-13 20:17:05.365248|INFO    |VirtualServer |  1| client (id:270) was added to servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:17:08.036496|INFO    |VirtualServer |  1| client (id:271) was added to servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:17:10.787925|INFO    |VirtualServer |  1| client (id:269) was added to servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:17:13.187851|INFO    |VirtualServer |  1| client (id:261) was added to servergroup 'Tribrony'(id:22) by client '!McKeyPL'(id:2)
+2015-02-13 20:17:18.213992|INFO    |VirtualServer |  1| client (id:259) was added to servergroup 'Tribrony'(id:22) by client '!McKeyPL'(id:2)
+2015-02-13 20:19:10.657178|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40748'(id:139)
+2015-02-13 20:19:10.865473|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:22:10.847975|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60251'(id:139)
+2015-02-13 20:22:11.143484|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:22:39.045119|INFO    |VirtualServer |  1| permission 'i_client_kick_from_server_power'(id:196) with values (value:90) was added by '!McKeyPL'(id:2) to channelgroup 'Channel Admin'(id:5)
+2015-02-13 20:22:46.787829|INFO    |VirtualServer |  1| permission 'i_client_kick_from_channel_power'(id:198) with values (value:75) was added by '!McKeyPL'(id:2) to channelgroup 'Operator'(id:6)
+2015-02-13 20:22:51.433874|INFO    |VirtualServer |  1| permission 'i_client_kick_from_channel_power'(id:198) with values (value:75) was added by '!McKeyPL'(id:2) to channelgroup 'Channel Admin'(id:5)
+2015-02-13 20:23:53.585137|INFO    |VirtualServer |  1| client 'Admin'(id:273) was added to channelgroup 'Channel Admin'(id:5) by client 'McKeyPL'(id:2) in channel 'S1'(id:232)
+2015-02-13 20:24:27.140493|INFO    |VirtualServer |  1| client 'Admin'(id:273) was added to channelgroup 'Guest'(id:8) by client 'McKeyPL'(id:2) in channel 'S1'(id:232)
+2015-02-13 20:24:30.581730|INFO    |VirtualServer |  1| client 'n00bs'(id:272) was added to channelgroup 'Operator'(id:6) by client 'McKeyPL'(id:2) in channel 'S1'(id:232)
+2015-02-13 20:25:10.848620|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55167'(id:139)
+2015-02-13 20:25:11.070449|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:28:10.967606|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33130'(id:139)
+2015-02-13 20:28:11.162069|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:31:10.238463|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47604'(id:139)
+2015-02-13 20:31:10.542551|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:34:10.639322|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:59085'(id:139)
+2015-02-13 20:34:10.825265|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:37:40.403006|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51175'(id:139)
+2015-02-13 20:37:40.589891|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:38:27.645183|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'McKey'(id:9) by client 'Scarlet'(id:253)
+2015-02-13 20:38:38.962061|INFO    |VirtualServer |  1| client 'Scarlet'(id:253) was added to channelgroup 'Channel Admin'(id:5) by client 'McKeyPL'(id:2) in channel 'Team 1'(id:245)
+2015-02-13 20:38:41.029540|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'Scarlet'(id:16) by client 'McKeyPL'(id:2)
+2015-02-13 20:38:43.072351|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'McKey'(id:9) by client 'McKeyPL'(id:2)
+2015-02-13 20:39:13.366754|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1194700040) was added by 'McKeyPL'(id:2) to client (id:259)
+2015-02-13 20:40:01.002231|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'Scarlet'(id:16) by client 'McKeyPL'(id:2)
+2015-02-13 20:40:18.158195|INFO    |VirtualServer |  1| client 'Scarlet'(id:253) was added to channelgroup 'Guest'(id:8) by client 'Scarlet'(id:253) in channel 'Team 1'(id:245)
+2015-02-13 20:40:40.965689|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50061'(id:139)
+2015-02-13 20:40:41.147940|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:40:56.569585|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) was deleted by 'McKeyPL'(id:2) from client (id:259)
+2015-02-13 20:41:03.546540|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-184040641) was added by 'McKeyPL'(id:2) to client (id:259)
+2015-02-13 20:41:10.823119|INFO    |VirtualServer |  1| client (id:259) was removed from servergroup 'Tribrony'(id:22) by client 'McKeyPL'(id:2)
+2015-02-13 20:43:41.022546|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38159'(id:139)
+2015-02-13 20:43:41.224267|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:45:10.398181|INFO    |VirtualServer |  1| servergroup 'Otaku'(id:19) was copied by 'Scarlet'(id:253) to 'Legia Warszawa'(id:23)
+2015-02-13 20:45:19.943585|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'McKey'(id:9) by client 'Scarlet'(id:253)
+2015-02-13 20:45:32.468022|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1912138009, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Legia Warszawa'(id:23)
+2015-02-13 20:45:41.143210|INFO    |VirtualServer |  1| client (id:261) was added to servergroup 'Legia Warszawa'(id:23) by client 'Scarlet'(id:253)
+2015-02-13 20:46:40.756633|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52237'(id:139)
+2015-02-13 20:46:40.939097|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:49:33.310290|INFO    |VirtualServer |  1| client (id:261) was removed from servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:49:37.212180|INFO    |VirtualServer |  1| client (id:261) was added to servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:49:40.676735|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57202'(id:139)
+2015-02-13 20:49:40.874683|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:50:19.534155|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'McKey'(id:9) by client 'Scarlet'(id:253)
+2015-02-13 20:50:41.503313|INFO    |VirtualServer |  1| permission 'i_group_sort_id'(id:148) with values (value:75, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Prenium'(id:12)
+2015-02-13 20:50:44.277142|INFO    |VirtualServer |  1| permission 'i_group_sort_id'(id:148) with values (value:6, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Prenium'(id:12)
+2015-02-13 20:50:51.546350|INFO    |VirtualServer |  1| permission 'i_group_sort_id'(id:148) with values (value:4, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Tribrony'(id:22)
+2015-02-13 20:50:58.573682|INFO    |VirtualServer |  1| permission 'i_group_sort_id'(id:148) with values (value:76, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Tribrony'(id:22)
+2015-02-13 20:51:00.499545|INFO    |VirtualServer |  1| client (id:269) was added to servergroup 'Legia Warszawa'(id:23) by client 'Scarlet'(id:253)
+2015-02-13 20:51:09.210090|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) was deleted by 'McKeyPL'(id:2) from servergroup 'Tribrony'(id:22)
+2015-02-13 20:51:36.446092|INFO    |VirtualServer |  1| client (id:274) was added to servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 20:51:48.208391|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-184040641, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Tribrony'(id:22)
+2015-02-13 20:51:55.272607|INFO    |VirtualServer |  1| client (id:259) was added to servergroup 'Tribrony'(id:22) by client 'McKeyPL'(id:2)
+2015-02-13 20:52:02.568469|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) was deleted by 'McKeyPL'(id:2) from client (id:259)
+2015-02-13 20:52:40.663338|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51262'(id:139)
+2015-02-13 20:52:40.874138|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:53:27.260641|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'McKey'(id:9) by client 'Scarlet'(id:253)
+2015-02-13 20:55:04.732589|INFO    |VirtualServer |  1| servergroup 'Lechia Gda&#324;sk'(id:24) was added by 'Scarlet'(id:253)
+2015-02-13 20:55:05.318259|INFO    |VirtualServer |  1| permission 'i_group_auto_update_type'(id:146) with values (value:30, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.326202|INFO    |VirtualServer |  1| permission 'b_virtualserver_token_use'(id:38) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.326720|INFO    |VirtualServer |  1| permission 'i_client_poke_power'(id:221) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.327139|INFO    |VirtualServer |  1| permission 'i_client_max_clones_uid'(id:173) with values (value:2, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.380203|INFO    |VirtualServer |  1| permission 'b_client_permissionoverview_view'(id:190) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.380827|INFO    |VirtualServer |  1| permission 'b_client_permissionoverview_own'(id:191) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.381247|INFO    |VirtualServer |  1| permission 'i_client_needed_serverquery_view_power'(id:194) with values (value:75, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.389357|INFO    |VirtualServer |  1| permission 'i_client_needed_complain_power'(id:205) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.389832|INFO    |VirtualServer |  1| permission 'b_channel_join_permanent'(id:131) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.390152|INFO    |VirtualServer |  1| permission 'b_channel_join_semi_permanent'(id:132) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.393349|INFO    |VirtualServer |  1| permission 'b_channel_join_temporary'(id:133) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.393929|INFO    |VirtualServer |  1| permission 'i_channel_join_power'(id:136) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.394308|INFO    |VirtualServer |  1| permission 'i_channel_description_view_power'(id:140) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.394679|INFO    |VirtualServer |  1| permission 'i_client_needed_ban_power'(id:201) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.395032|INFO    |VirtualServer |  1| permission 'i_client_needed_kick_from_server_power'(id:197) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.395377|INFO    |VirtualServer |  1| permission 'i_client_needed_kick_from_channel_power'(id:199) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.424110|INFO    |VirtualServer |  1| permission 'i_group_needed_member_add_power'(id:164) with values (value:60, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.447200|INFO    |VirtualServer |  1| permission 'i_group_needed_member_remove_power'(id:166) with values (value:60, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.447713|INFO    |VirtualServer |  1| permission 'b_virtualserver_connectioninfo_view'(id:24) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.448091|INFO    |VirtualServer |  1| permission 'i_channel_modify_power'(id:121) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.448516|INFO    |VirtualServer |  1| permission 'i_client_needed_move_power'(id:203) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.448924|INFO    |VirtualServer |  1| permission 'b_channel_create_child'(id:82) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.449704|INFO    |VirtualServer |  1| permission 'b_channel_create_semi_permanent'(id:84) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.450141|INFO    |VirtualServer |  1| permission 'b_channel_create_temporary'(id:85) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.450773|INFO    |VirtualServer |  1| permission 'b_channel_create_with_topic'(id:87) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.451126|INFO    |VirtualServer |  1| permission 'b_channel_create_with_description'(id:88) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.474037|INFO    |VirtualServer |  1| permission 'b_channel_create_with_password'(id:89) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.474694|INFO    |VirtualServer |  1| permission 'b_channel_create_modify_with_codec_speex8'(id:90) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.475135|INFO    |VirtualServer |  1| permission 'b_channel_create_modify_with_codec_speex16'(id:91) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.475521|INFO    |VirtualServer |  1| permission 'b_channel_create_modify_with_codec_speex32'(id:92) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.475904|INFO    |VirtualServer |  1| permission 'i_channel_create_modify_with_codec_latency_factor_min'(id:97) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.476236|INFO    |VirtualServer |  1| permission 'b_channel_create_with_maxclients'(id:98) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.488437|INFO    |VirtualServer |  1| permission 'b_channel_create_with_maxfamilyclients'(id:99) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.488967|INFO    |VirtualServer |  1| permission 'b_channel_create_with_needed_talk_power'(id:102) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.489356|INFO    |VirtualServer |  1| permission 'i_channel_create_modify_with_codec_maxquality'(id:96) with values (value:7, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.489753|INFO    |VirtualServer |  1| permission 'i_channel_max_depth'(id:77) with values (value:5, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.490137|INFO    |VirtualServer |  1| permission 'i_channel_delete_power'(id:129) with values (value:60, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.490555|INFO    |VirtualServer |  1| permission 'b_channel_delete_semi_permanent'(id:126) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.491147|INFO    |VirtualServer |  1| permission 'b_channel_delete_temporary'(id:127) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.491530|INFO    |VirtualServer |  1| permission 'b_channel_delete_flag_force'(id:128) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.491859|INFO    |VirtualServer |  1| permission 'i_client_max_avatar_filesize'(id:175) with values (value:200000, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.492179|INFO    |VirtualServer |  1| permission 'i_client_max_channel_subscriptions'(id:176) with values (value:-1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.504110|INFO    |VirtualServer |  1| permission 'i_channel_subscribe_power'(id:138) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.504679|INFO    |VirtualServer |  1| permission 'i_client_private_textmessage_power'(id:214) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.505054|INFO    |VirtualServer |  1| permission 'b_client_channel_textmessage_send'(id:217) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.505732|INFO    |VirtualServer |  1| permission 'b_client_offline_textmessage_send'(id:218) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.506267|INFO    |VirtualServer |  1| permission 'i_ft_file_delete_power'(id:237) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.506685|INFO    |VirtualServer |  1| permission 'i_ft_file_rename_power'(id:239) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.507126|INFO    |VirtualServer |  1| permission 'i_ft_directory_create_power'(id:243) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.507473|INFO    |VirtualServer |  1| permission 'i_ft_file_upload_power'(id:233) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.507826|INFO    |VirtualServer |  1| permission 'i_ft_quota_mb_upload_per_client'(id:246) with values (value:-1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.508181|INFO    |VirtualServer |  1| permission 'i_ft_file_download_power'(id:235) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.508572|INFO    |VirtualServer |  1| permission 'i_ft_quota_mb_download_per_client'(id:245) with values (value:-1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:05.508919|INFO    |VirtualServer |  1| permission 'i_ft_file_browse_power'(id:241) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:17.723180|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:576958949, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lechia Gda&#324;sk'(id:24)
+2015-02-13 20:55:29.790065|INFO    |VirtualServer |  1| client (id:269) was added to servergroup 'Lechia Gda&#324;sk'(id:24) by client 'Scarlet'(id:253)
+2015-02-13 20:55:33.949588|INFO    |VirtualServer |  1| client (id:269) was removed from servergroup 'Legia Warszawa'(id:23) by client 'Scarlet'(id:253)
+2015-02-13 20:55:40.610244|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53304'(id:139)
+2015-02-13 20:55:40.797825|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:57:57.299855|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'McKey'(id:9) by client 'Scarlet'(id:253)
+2015-02-13 20:58:40.943095|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54995'(id:139)
+2015-02-13 20:58:41.186373|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 20:59:54.104370|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'McKey'(id:9) by client 'Scarlet'(id:253)
+2015-02-13 21:00:16.386336|INFO    |VirtualServer |  1| servergroup 'Lechia Gda&#324;sk'(id:24) was copied by 'Scarlet'(id:253) to 'Wis&#322;a Krak&#243;w'(id:25)
+2015-02-13 21:00:43.065950|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-322769434, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Wis&#322;a Krak&#243;w'(id:25)
+2015-02-13 21:00:52.984983|INFO    |VirtualServer |  1| client (id:270) was added to servergroup 'Wis&#322;a Krak&#243;w'(id:25) by client 'Scarlet'(id:253)
+2015-02-13 21:02:00.609041|INFO    |VirtualServer |  1| client (id:274) was added to servergroup 'Lechia Gda&#324;sk'(id:24) by client 'Scarlet'(id:253)
+2015-02-13 21:02:10.990363|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58564'(id:139)
+2015-02-13 21:02:11.299647|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:02:25.572067|INFO    |VirtualServer |  1| servergroup 'Tribrony'(id:22) was copied by 'Scarlet'(id:253) to 'Tribrony '(id:26)
+2015-02-13 21:02:35.313372|INFO    |VirtualServer |  1| client (id:268) was added to servergroup 'Tribrony '(id:26) by client 'Scarlet'(id:253)
+2015-02-13 21:04:23.065679|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'McKey'(id:9) by client 'Scarlet'(id:253)
+2015-02-13 21:05:10.453522|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51880'(id:139)
+2015-02-13 21:05:10.682478|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:08:10.645817|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43120'(id:139)
+2015-02-13 21:08:10.826925|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:08:29.411122|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'McKey'(id:9) by client 'Scarlet'(id:253)
+2015-02-13 21:08:46.272297|INFO    |VirtualServer |  1| servergroup 'Wis&#322;a Krak&#243;w'(id:25) was copied by 'Scarlet'(id:253) to 'Dla Mckeya'(id:27)
+2015-02-13 21:08:51.866298|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1016989327, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Dla Mckeya'(id:27)
+2015-02-13 21:10:23.673640|INFO    |VirtualServer |  1| client (id:271) was added to servergroup 'Tribrony '(id:26) by client 'Scarlet'(id:253)
+2015-02-13 21:11:10.375837|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43106'(id:139)
+2015-02-13 21:11:10.563531|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:11:25.949744|INFO    |VirtualServer |  1| servergroup 'Dla Mckeya'(id:27) was renamed to 'Spar Falubaz' by 'McKeyPL'(id:2)
+2015-02-13 21:11:33.217933|INFO    |VirtualServer |  1| client (id:2) was added to servergroup 'Spar Falubaz'(id:27) by client 'McKeyPL'(id:2)
+2015-02-13 21:11:51.371114|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:1, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Scarlet'(id:16)
+2015-02-13 21:12:16.635396|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'McKey'(id:9) by client 'McKeyPL'(id:2)
+2015-02-13 21:14:10.678582|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37014'(id:139)
+2015-02-13 21:14:10.969382|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:14:13.679708|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'McKey'(id:9) by client 'Scarlet'(id:253)
+2015-02-13 21:14:24.859740|INFO    |VirtualServer |  1| servergroup 'Spar Falubaz'(id:27) was copied by 'Scarlet'(id:253) to 'Spidimarket'(id:28)
+2015-02-13 21:15:19.437424|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-729575150, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Spidimarket'(id:28)
+2015-02-13 21:15:26.728377|INFO    |VirtualServer |  1| client (id:271) was added to servergroup 'Spidimarket'(id:28) by client 'Scarlet'(id:253)
+2015-02-13 21:16:00.666368|INFO    |VirtualServer |  1| servergroup 'Wis&#322;a Krak&#243;w'(id:25) was copied by 'Scarlet'(id:253) to 'AJ'(id:29)
+2015-02-13 21:17:10.954162|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56890'(id:139)
+2015-02-13 21:17:11.160027|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:18:47.039458|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'McKey'(id:9) by client 'McKeyPL'(id:2)
+2015-02-13 21:20:07.488104|INFO    |VirtualServer |  1| servergroup 'AJ'(id:29) was copied by 'Scarlet'(id:253) to 'PP'(id:30)
+2015-02-13 21:20:10.976403|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45921'(id:139)
+2015-02-13 21:20:11.166614|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:20:14.396637|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1285468575, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'PP'(id:30)
+2015-02-13 21:20:20.998100|INFO    |VirtualServer |  1| client (id:268) was removed from servergroup 'Tribrony '(id:26) by client 'Scarlet'(id:253)
+2015-02-13 21:20:24.955260|INFO    |VirtualServer |  1| client (id:268) was added to servergroup 'PP'(id:30) by client 'Scarlet'(id:253)
+2015-02-13 21:20:29.945500|INFO    |VirtualServer |  1| client (id:271) was removed from servergroup 'Tribrony '(id:26) by client 'Scarlet'(id:253)
+2015-02-13 21:20:36.618276|INFO    |VirtualServer |  1| client (id:268) was added to servergroup 'Legia Warszawa'(id:23) by client 'Scarlet'(id:253)
+2015-02-13 21:22:27.405528|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1883562967, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'AJ'(id:29)
+2015-02-13 21:22:39.084037|INFO    |VirtualServer |  1| client (id:262) was added to servergroup 'AJ'(id:29) by client 'Scarlet'(id:253)
+2015-02-13 21:22:42.324145|INFO    |VirtualServer |  1| client (id:270) was added to servergroup 'AJ'(id:29) by client 'Scarlet'(id:253)
+2015-02-13 21:23:10.756542|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57989'(id:139)
+2015-02-13 21:23:10.935945|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:23:29.103154|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:2115740991, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Spidimarket'(id:28)
+2015-02-13 21:24:37.902778|INFO    |VirtualServer |  1| servergroup 'AJ'(id:29) was copied by 'Scarlet'(id:253) to 'TS'(id:31)
+2015-02-13 21:24:43.437675|INFO    |VirtualServer |  1| servergroup 'TS'(id:31) was copied by 'Scarlet'(id:253) to 'RD'(id:32)
+2015-02-13 21:24:50.828813|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1603541880, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'TS'(id:31)
+2015-02-13 21:25:58.405105|INFO    |VirtualServer |  1| client (id:271) was added to servergroup 'TS'(id:31) by client 'Scarlet'(id:253)
+2015-02-13 21:26:07.786967|INFO    |VirtualServer |  1| client (id:274) was added to servergroup 'TS'(id:31) by client 'Scarlet'(id:253)
+2015-02-13 21:26:10.451948|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50934'(id:139)
+2015-02-13 21:26:10.671492|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:27:12.792219|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-622875077, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'RD'(id:32)
+2015-02-13 21:27:28.351412|INFO    |VirtualServer |  1| servergroup 'RD'(id:32) was copied by 'Scarlet'(id:253) to 'FS'(id:33)
+2015-02-13 21:27:42.988998|INFO    |VirtualServer |  1| servergroup 'AJ'(id:29) was renamed to 'AppleJack' by 'Scarlet'(id:253)
+2015-02-13 21:27:50.396213|INFO    |VirtualServer |  1| servergroup 'PP'(id:30) was renamed to 'Pinkie Pie' by 'Scarlet'(id:253)
+2015-02-13 21:28:05.983933|INFO    |VirtualServer |  1| servergroup 'TS'(id:31) was renamed to 'Twilight Sparcle' by 'Scarlet'(id:253)
+2015-02-13 21:28:14.717333|INFO    |VirtualServer |  1| servergroup 'RD'(id:32) was renamed to 'Rainbow Dash' by 'Scarlet'(id:253)
+2015-02-13 21:28:27.618800|INFO    |VirtualServer |  1| servergroup 'FS'(id:33) was renamed to 'Fluttershy' by 'Scarlet'(id:253)
+2015-02-13 21:28:40.701293|INFO    |VirtualServer |  1| client (id:261) was added to servergroup 'Rainbow Dash'(id:32) by client 'Scarlet'(id:253)
+2015-02-13 21:29:10.340484|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56027'(id:139)
+2015-02-13 21:29:10.702951|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:30:47.950091|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-184040641) was added by 'Scarlet'(id:253) to channel 'Tribrony'(id:351)
+2015-02-13 21:31:02.839566|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1434487208, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Fluttershy'(id:33)
+2015-02-13 21:31:13.993658|INFO    |VirtualServer |  1| servergroup 'Fluttershy'(id:33) was copied by 'Scarlet'(id:253) to 'Rarity'(id:34)
+2015-02-13 21:31:19.629322|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1670127635, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Rarity'(id:34)
+2015-02-13 21:31:43.021174|INFO    |VirtualServer |  1| servergroup 'AppleJack'(id:29) was renamed to 'Applejack' by 'Scarlet'(id:253)
+2015-02-13 21:32:10.071471|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46054'(id:139)
+2015-02-13 21:32:10.240212|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:33:43.057718|INFO    |VirtualServer |  1| client 'McKeyPL'(id:2) was added to channelgroup 'Channel Admin'(id:5) by client 'McKeyPL'(id:2) in channel 'Tribrony'(id:351)
+2015-02-13 21:33:46.767643|INFO    |VirtualServer |  1| client 'McKeyPL'(id:2) was added to channelgroup 'Channel Admin'(id:5) by client 'McKeyPL'(id:2) in channel 'Tribrony'(id:351)
+2015-02-13 21:33:51.795952|INFO    |VirtualServer |  1| client 'McKeyPL'(id:2) was added to channelgroup 'Channel Admin'(id:5) by client 'McKeyPL'(id:2) in channel 'Tribrony'(id:351)
+2015-02-13 21:33:55.030061|INFO    |VirtualServer |  1| servergroup 'Rarity'(id:34) was copied by 'Scarlet'(id:253) to 'Kutacz'(id:35)
+2015-02-13 21:33:58.455632|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1910538173, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Kutacz'(id:35)
+2015-02-13 21:33:58.574320|INFO    |VirtualServer |  1| client 'McKeyPL'(id:2) was added to channelgroup 'Guest'(id:8) by client 'McKeyPL'(id:2) in channel 'Tribrony'(id:351)
+2015-02-13 21:34:02.962702|INFO    |VirtualServer |  1| client (id:275) was added to servergroup 'Kutacz'(id:35) by client 'Scarlet'(id:253)
+2015-02-13 21:34:24.274347|INFO    |VirtualServer |  1| client (id:275) was removed from servergroup 'Kutacz'(id:35) by client 'Scarlet'(id:253)
+2015-02-13 21:34:27.482596|INFO    |VirtualServer |  1| client (id:275) was added to servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:34:29.525929|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1910538173) was added by 'McKeyPL'(id:2) to client (id:253)
+2015-02-13 21:34:32.834574|INFO    |VirtualServer |  1| client (id:275) was added to servergroup 'Tribrony'(id:22) by client 'Scarlet'(id:253)
+2015-02-13 21:35:07.164081|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) was deleted by 'McKeyPL'(id:2) from client (id:253)
+2015-02-13 21:35:10.852028|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48767'(id:139)
+2015-02-13 21:35:11.043253|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:35:27.681544|INFO    |VirtualServer |  1| client (id:270) was added to servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:35:42.071751|INFO    |VirtualServer |  1| client (id:260) was added to servergroup 'Lol-Player'(id:15) by client 'Scarlet'(id:253)
+2015-02-13 21:35:46.825334|INFO    |VirtualServer |  1| client (id:260) was added to servergroup 'Rainbow Dash'(id:32) by client 'Scarlet'(id:253)
+2015-02-13 21:36:18.258015|INFO    |VirtualServer |  1| client (id:271) was added to servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:36:23.280430|INFO    |VirtualServer |  1| client (id:269) was added to servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:36:26.520913|INFO    |VirtualServer |  1| client (id:261) was added to servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:36:29.311909|INFO    |VirtualServer |  1| client (id:268) was added to servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:36:32.553626|INFO    |VirtualServer |  1| client (id:274) was added to servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:36:35.039350|INFO    |VirtualServer |  1| client (id:260) was added to servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:36:37.769698|INFO    |VirtualServer |  1| client (id:262) was added to servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:36:50.474670|INFO    |VirtualServer |  1| client (id:275) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:36:53.522436|INFO    |VirtualServer |  1| client (id:270) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:36:56.675258|INFO    |VirtualServer |  1| client (id:271) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:37:01.706092|INFO    |VirtualServer |  1| client (id:269) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:37:04.343605|INFO    |VirtualServer |  1| client (id:261) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:37:07.232908|INFO    |VirtualServer |  1| client (id:268) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:37:10.286488|INFO    |VirtualServer |  1| client (id:274) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:37:13.208070|INFO    |VirtualServer |  1| client (id:260) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:37:16.073591|INFO    |VirtualServer |  1| client (id:262) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:37:26.106472|INFO    |VirtualServer |  1| client (id:271) was removed from servergroup 'Spidimarket'(id:28) by client 'Scarlet'(id:253)
+2015-02-13 21:37:31.795608|INFO    |VirtualServer |  1| servergroup 'Kutacz'(id:35) was deleted by 'Scarlet'(id:253)
+2015-02-13 21:37:36.394743|INFO    |VirtualServer |  1| servergroup 'Spidimarket'(id:28) was deleted by 'Scarlet'(id:253)
+2015-02-13 21:38:10.198415|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56822'(id:139)
+2015-02-13 21:38:10.379532|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:38:42.080128|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'McKeyPL'(id:2) for client (id:275) and channel 'Gadka-Szmatka'(id:357)
+2015-02-13 21:39:07.727101|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'McKeyPL'(id:2) for client (id:275) and channel 'Gadka-Szmatka'(id:357)
+2015-02-13 21:39:48.994071|INFO    |VirtualServer |  1| servergroup 'Rarity'(id:34) was copied by 'Scarlet'(id:253) to 'Daring Doo'(id:36)
+2015-02-13 21:40:51.050660|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'McKeyPL'(id:2) for client (id:259) and channel 'Gadka-Szmatka'(id:357)
+2015-02-13 21:41:10.953804|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50146'(id:139)
+2015-02-13 21:41:11.135234|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:41:36.994235|INFO    |VirtualServer |  1| servergroup 'Tribrony '(id:26) was deleted by 'Scarlet'(id:253)
+2015-02-13 21:42:01.451921|INFO    |VirtualServer |  1| client (id:23) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:42:04.375680|INFO    |VirtualServer |  1| client (id:101) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:42:07.134465|INFO    |VirtualServer |  1| client (id:5) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-13 21:44:10.544664|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55705'(id:139)
+2015-02-13 21:44:10.724121|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:47:05.519523|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43004'(id:139)
+2015-02-13 21:47:05.730955|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:50:10.511442|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56233'(id:139)
+2015-02-13 21:50:10.700879|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:50:34.577603|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'McKeyPL'(id:2) for client (id:259) and channel 'Gadka-Szmatka'(id:357)
+2015-02-13 21:53:10.442301|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40904'(id:139)
+2015-02-13 21:53:10.625742|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:53:11.688528|INFO    |VirtualServer |  1| servergroup 'Rarity'(id:34) was copied by 'Scarlet'(id:253) to 'Candance'(id:37)
+2015-02-13 21:54:42.414778|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1076395875, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Applejack'(id:29)
+2015-02-13 21:54:48.030779|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-345292048, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Pinkie Pie'(id:30)
+2015-02-13 21:54:52.908744|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1568668365, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Twilight Sparcle'(id:31)
+2015-02-13 21:54:59.021614|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:761591703, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Rainbow Dash'(id:32)
+2015-02-13 21:55:04.424238|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1422216251, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Fluttershy'(id:33)
+2015-02-13 21:55:10.506456|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:721748847, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Rarity'(id:34)
+2015-02-13 21:55:24.227883|INFO    |VirtualServer |  1| client (id:268) was removed from servergroup 'Legia Warszawa'(id:23) by client 'Scarlet'(id:253)
+2015-02-13 21:55:40.060016|INFO    |VirtualServer |  1| client (id:268) was added to servergroup 'Chlebek'(id:21) by client 'Scarlet'(id:253)
+2015-02-13 21:56:10.156266|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43319'(id:139)
+2015-02-13 21:56:10.478860|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 21:56:39.296331|INFO    |VirtualServer |  1| servergroup 'Candance'(id:37) was copied by 'Scarlet'(id:253) to 'Discord'(id:38)
+2015-02-13 21:57:08.838016|INFO    |VirtualServer |  1| servergroup 'Spar Falubaz'(id:27) was copied by 'Scarlet'(id:253) to 'Ciastko'(id:39)
+2015-02-13 21:57:13.990892|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1403217962, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Ciastko'(id:39)
+2015-02-13 21:57:19.204214|INFO    |VirtualServer |  1| client (id:268) was added to servergroup 'Ciastko'(id:39) by client 'Scarlet'(id:253)
+2015-02-13 21:57:22.858453|INFO    |VirtualServer |  1| client (id:268) was removed from servergroup 'Chlebek'(id:21) by client 'Scarlet'(id:253)
+2015-02-13 21:57:48.259609|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1883562967, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Applejack'(id:29)
+2015-02-13 21:57:54.678966|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1285468575, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Pinkie Pie'(id:30)
+2015-02-13 21:58:02.223951|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-622875077, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Rainbow Dash'(id:32)
+2015-02-13 21:58:11.438478|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1057716093, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Fluttershy'(id:33)
+2015-02-13 21:58:17.360548|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1670127635, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Rarity'(id:34)
+2015-02-13 21:59:10.745879|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41860'(id:139)
+2015-02-13 21:59:10.928906|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:00:41.033471|INFO    |VirtualServer |  1| permission 'i_group_sort_id'(id:148) with values (value:7, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Ciastko'(id:39)
+2015-02-13 22:02:11.028668|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43309'(id:139)
+2015-02-13 22:02:11.343085|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:03:59.090949|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_icon_id'(id:32910) with values (value:75, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Candance'(id:37)
+2015-02-13 22:03:59.656508|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) was deleted by 'McKeyPL'(id:2) from servergroup 'Candance'(id:37)
+2015-02-13 22:04:09.440538|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-456882644, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Candance'(id:37)
+2015-02-13 22:04:29.111431|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-152833446, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Daring Doo'(id:36)
+2015-02-13 22:04:36.550481|INFO    |VirtualServer |  1| client (id:269) was added to servergroup 'Candance'(id:37) by client 'McKeyPL'(id:2)
+2015-02-13 22:04:38.887977|INFO    |VirtualServer |  1| client (id:271) was added to servergroup 'Daring Doo'(id:36) by client 'Scarlet'(id:253)
+2015-02-13 22:05:11.196483|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40810'(id:139)
+2015-02-13 22:05:11.405998|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:05:54.115207|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_icon_id'(id:32910) was deleted by 'McKeyPL'(id:2) from servergroup 'McKey'(id:9)
+2015-02-13 22:07:19.589313|INFO    |VirtualServer |  1| client (id:81) was removed from servergroup 'Scarlet'(id:16) by client 'Scarlet'(id:253)
+2015-02-13 22:07:24.564734|INFO    |VirtualServer |  1| client (id:253) was removed from servergroup 'Scarlet'(id:16) by client 'Scarlet'(id:253)
+2015-02-13 22:07:59.659694|INFO    |VirtualServer |  1| client (id:253) was added to servergroup 'Scarlet'(id:16) by client 'McKeyPL'(id:2)
+2015-02-13 22:08:10.694529|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44631'(id:139)
+2015-02-13 22:08:10.882046|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:08:41.218085|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:1, negated:0, skipchannel:1) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-13 22:08:47.251446|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:1, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-13 22:08:50.006505|INFO    |VirtualServer |  1| permission 'i_max_icon_filesize'(id:143) with values (value:8192, negated:0, skipchannel:1) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-13 22:08:54.702405|INFO    |VirtualServer |  1| permission 'i_max_icon_filesize'(id:143) with values (value:8192, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-13 22:08:57.743379|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:0, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-13 22:08:58.384033|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:1, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-13 22:08:58.872972|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:0, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-13 22:09:02.629280|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:1, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-13 22:09:08.988408|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:0, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Scarlet'(id:16)
+2015-02-13 22:09:36.063788|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:1, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Scarlet'(id:16)
+2015-02-13 22:09:46.191868|INFO    |VirtualServer |  1| permission 'b_virtualserver_modify_icon_id'(id:70) with values (value:1) was added by 'McKeyPL'(id:2) to client (id:2)
+2015-02-13 22:09:47.116772|INFO    |VirtualServer |  1| permission 'b_icon_manage'(id:144) with values (value:1) was added by 'McKeyPL'(id:2) to client (id:2)
+2015-02-13 22:09:51.845127|INFO    |VirtualServer |  1| permission 'i_max_icon_filesize'(id:143) with values (value:999999) was added by 'McKeyPL'(id:2) to client (id:2)
+2015-02-13 22:11:10.152646|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53526'(id:139)
+2015-02-13 22:11:10.406480|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:14:10.969524|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49436'(id:139)
+2015-02-13 22:14:11.152479|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:17:10.980965|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50271'(id:139)
+2015-02-13 22:17:11.223595|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:20:10.869415|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46990'(id:139)
+2015-02-13 22:20:11.115371|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:23:10.227807|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56039'(id:139)
+2015-02-13 22:23:10.422607|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:26:10.936496|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50570'(id:139)
+2015-02-13 22:26:11.208652|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:29:10.147359|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60571'(id:139)
+2015-02-13 22:29:10.326204|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:32:10.651878|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40244'(id:139)
+2015-02-13 22:32:10.917655|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:35:10.443336|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51569'(id:139)
+2015-02-13 22:35:10.760022|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:37:40.684710|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48750'(id:139)
+2015-02-13 22:37:40.899281|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:40:41.127735|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47373'(id:139)
+2015-02-13 22:40:41.421019|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:43:40.614590|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60146'(id:139)
+2015-02-13 22:43:40.918693|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:46:40.746384|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44246'(id:139)
+2015-02-13 22:46:41.053998|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:49:40.497574|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57433'(id:139)
+2015-02-13 22:49:40.677820|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:52:40.340334|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56840'(id:139)
+2015-02-13 22:52:40.544260|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:55:11.069393|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35763'(id:139)
+2015-02-13 22:55:11.310026|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 22:57:40.488549|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57855'(id:139)
+2015-02-13 22:57:40.699305|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:00:40.990286|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38239'(id:139)
+2015-02-13 23:00:41.247223|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:03:40.834296|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:32941'(id:139)
+2015-02-13 23:03:41.332869|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:06:41.069936|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45633'(id:139)
+2015-02-13 23:06:41.303051|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:09:10.635005|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37972'(id:139)
+2015-02-13 23:09:10.983143|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:11:40.172424|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53340'(id:139)
+2015-02-13 23:11:40.360301|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:14:10.380389|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:36859'(id:139)
+2015-02-13 23:14:10.752440|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:17:10.447370|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55144'(id:139)
+2015-02-13 23:17:10.645547|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:19:40.753420|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46616'(id:139)
+2015-02-13 23:19:41.168637|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:22:10.371995|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54555'(id:139)
+2015-02-13 23:22:10.557305|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:22:24.320444|INFO    |VirtualServer |  1| servergroup 'McKey'(id:9) was copied by 'McKeyPL'(id:2) to 'McKey (Copy)'(id:40)
+2015-02-13 23:22:31.037137|INFO    |VirtualServer |  1| servergroup 'McKey (Copy)'(id:40) was deleted by 'McKeyPL'(id:2)
+2015-02-13 23:24:40.774362|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49030'(id:139)
+2015-02-13 23:24:41.064271|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:27:10.398924|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53541'(id:139)
+2015-02-13 23:27:10.577631|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:29:40.862436|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44504'(id:139)
+2015-02-13 23:29:41.077115|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:29:53.293224|INFO    |VirtualServer |  1| client (id:273) was added to servergroup 'Prenium'(id:12) by client 'McKeyPL'(id:2)
+2015-02-13 23:32:10.708784|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51548'(id:139)
+2015-02-13 23:32:10.896472|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:34:40.200598|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54565'(id:139)
+2015-02-13 23:34:40.385373|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:37:11.077767|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54751'(id:139)
+2015-02-13 23:37:11.378195|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:39:40.924126|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58486'(id:139)
+2015-02-13 23:39:41.105647|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:42:10.242999|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41378'(id:139)
+2015-02-13 23:42:10.411142|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:44:40.335223|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40086'(id:139)
+2015-02-13 23:44:40.513635|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:47:10.696431|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50538'(id:139)
+2015-02-13 23:47:10.895693|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:49:40.774775|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47021'(id:139)
+2015-02-13 23:49:41.061374|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:52:10.619304|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52614'(id:139)
+2015-02-13 23:52:10.842762|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:54:41.058539|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33468'(id:139)
+2015-02-13 23:54:41.257724|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:57:10.459394|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60356'(id:139)
+2015-02-13 23:57:10.738886|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-13 23:59:40.573128|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44278'(id:139)
+2015-02-13 23:59:40.803256|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:02:40.805210|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60729'(id:139)
+2015-02-14 00:02:41.047015|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:05:10.791914|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48280'(id:139)
+2015-02-14 00:05:11.007220|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:07:40.315885|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60666'(id:139)
+2015-02-14 00:07:40.510030|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:10:40.871663|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44848'(id:139)
+2015-02-14 00:10:41.057176|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:13:10.299972|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44865'(id:139)
+2015-02-14 00:13:10.521937|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:16:11.105150|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44916'(id:139)
+2015-02-14 00:16:11.376388|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:18:40.614193|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47686'(id:139)
+2015-02-14 00:18:40.986589|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:21:40.809680|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35406'(id:139)
+2015-02-14 00:21:41.004821|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:24:40.825940|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42315'(id:139)
+2015-02-14 00:24:41.010256|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:27:40.893597|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35881'(id:139)
+2015-02-14 00:27:41.108269|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:30:11.195043|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49121'(id:139)
+2015-02-14 00:30:11.451844|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:32:10.723726|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41805'(id:139)
+2015-02-14 00:32:10.907540|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:34:41.100609|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:36010'(id:139)
+2015-02-14 00:34:41.360032|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:37:10.255956|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55268'(id:139)
+2015-02-14 00:37:10.453778|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:40:10.409622|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58428'(id:139)
+2015-02-14 00:40:10.779205|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:42:10.911834|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45375'(id:139)
+2015-02-14 00:42:11.194232|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:44:40.821779|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40882'(id:139)
+2015-02-14 00:44:41.173700|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:47:11.167167|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50814'(id:139)
+2015-02-14 00:47:11.342684|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:49:40.561332|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40842'(id:139)
+2015-02-14 00:49:40.780375|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:52:40.767979|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51726'(id:139)
+2015-02-14 00:52:41.135854|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:55:40.625427|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35734'(id:139)
+2015-02-14 00:55:40.783145|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 00:58:41.060758|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57090'(id:139)
+2015-02-14 00:58:41.332256|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:02:10.775642|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45485'(id:139)
+2015-02-14 01:02:11.005393|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:05:10.815142|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35965'(id:139)
+2015-02-14 01:05:11.079642|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:08:10.543089|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58627'(id:139)
+2015-02-14 01:08:10.833183|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:11:10.206745|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51055'(id:139)
+2015-02-14 01:11:10.375545|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:12:46.982398|INFO    |VirtualServer |  1| query client connected 'Unknown from 208.167.241.186:44588'(id:139)
+2015-02-14 01:12:47.152493|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:14:10.264447|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46693'(id:139)
+2015-02-14 01:14:10.437475|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:17:10.746713|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49768'(id:139)
+2015-02-14 01:17:10.993395|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:20:10.979364|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41938'(id:139)
+2015-02-14 01:20:11.253833|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:23:10.411110|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49536'(id:139)
+2015-02-14 01:23:10.591904|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:26:10.346529|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33654'(id:139)
+2015-02-14 01:26:10.524435|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:29:10.856798|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44016'(id:139)
+2015-02-14 01:29:11.130088|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:32:11.189759|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57780'(id:139)
+2015-02-14 01:32:11.421730|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:35:10.226606|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:59042'(id:139)
+2015-02-14 01:35:10.492469|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:38:10.548098|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:36410'(id:139)
+2015-02-14 01:38:10.819895|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:41:10.760897|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60238'(id:139)
+2015-02-14 01:41:10.964498|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:44:10.317066|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33929'(id:139)
+2015-02-14 01:44:10.636687|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:47:10.846906|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53110'(id:139)
+2015-02-14 01:47:11.018343|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:50:10.925816|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52622'(id:139)
+2015-02-14 01:50:11.143884|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:53:10.868990|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37745'(id:139)
+2015-02-14 01:53:11.055575|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:56:12.361586|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47922'(id:139)
+2015-02-14 01:56:12.621279|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 01:59:10.393415|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52280'(id:139)
+2015-02-14 01:59:10.660187|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:02:10.067594|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44886'(id:139)
+2015-02-14 02:02:10.245511|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:05:10.519657|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49076'(id:139)
+2015-02-14 02:05:10.818971|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:08:10.078355|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:32772'(id:139)
+2015-02-14 02:08:10.376025|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:11:10.605081|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42735'(id:139)
+2015-02-14 02:11:10.780469|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:14:10.713206|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46075'(id:139)
+2015-02-14 02:14:10.870558|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:17:10.548223|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33221'(id:139)
+2015-02-14 02:17:10.759969|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:20:10.326919|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48360'(id:139)
+2015-02-14 02:20:10.511066|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:23:10.880072|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33788'(id:139)
+2015-02-14 02:23:11.056544|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:26:09.970454|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50892'(id:139)
+2015-02-14 02:26:10.146189|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:29:10.904552|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58578'(id:139)
+2015-02-14 02:29:11.152980|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:32:10.167594|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53280'(id:139)
+2015-02-14 02:32:10.397349|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:35:10.587978|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:36600'(id:139)
+2015-02-14 02:35:10.774551|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:38:10.180625|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48931'(id:139)
+2015-02-14 02:38:10.355788|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:41:10.383723|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49534'(id:139)
+2015-02-14 02:41:10.566412|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:44:10.779989|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:36720'(id:139)
+2015-02-14 02:44:10.997026|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:47:10.432976|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51940'(id:139)
+2015-02-14 02:47:10.618046|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:50:10.281204|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60847'(id:139)
+2015-02-14 02:50:10.465324|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:53:09.666300|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38368'(id:139)
+2015-02-14 02:53:09.907037|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:56:10.686571|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40292'(id:139)
+2015-02-14 02:56:10.920118|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 02:59:10.076944|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41563'(id:139)
+2015-02-14 02:59:10.255820|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:02:10.599272|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42687'(id:139)
+2015-02-14 03:02:10.783247|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:05:10.715941|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47101'(id:139)
+2015-02-14 03:05:10.954229|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:08:10.745549|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45511'(id:139)
+2015-02-14 03:08:11.247415|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:11:10.826273|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41952'(id:139)
+2015-02-14 03:11:11.023915|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:14:10.611145|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46175'(id:139)
+2015-02-14 03:14:10.779818|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:17:10.279450|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35075'(id:139)
+2015-02-14 03:17:10.558942|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:20:10.921772|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60973'(id:139)
+2015-02-14 03:20:11.144479|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:23:10.618761|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38303'(id:139)
+2015-02-14 03:23:10.886286|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:26:10.785132|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49663'(id:139)
+2015-02-14 03:26:10.975487|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:29:10.408029|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:39613'(id:139)
+2015-02-14 03:29:10.608358|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:32:10.710721|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48154'(id:139)
+2015-02-14 03:32:10.991281|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:35:10.989692|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51948'(id:139)
+2015-02-14 03:35:11.505149|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:38:10.811439|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37220'(id:139)
+2015-02-14 03:38:11.004209|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:41:10.426190|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:36557'(id:139)
+2015-02-14 03:41:10.767091|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:44:10.192995|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55475'(id:139)
+2015-02-14 03:44:10.371353|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:47:10.468338|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50280'(id:139)
+2015-02-14 03:47:10.746212|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:50:10.084818|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38595'(id:139)
+2015-02-14 03:50:10.256177|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:53:10.904464|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53779'(id:139)
+2015-02-14 03:53:11.196654|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:56:10.054270|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56982'(id:139)
+2015-02-14 03:56:10.276954|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 03:59:10.552729|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58293'(id:139)
+2015-02-14 03:59:10.822817|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:02:10.834010|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42455'(id:139)
+2015-02-14 04:02:11.136184|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:05:10.607987|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52108'(id:139)
+2015-02-14 04:05:10.835338|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:08:10.011294|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35133'(id:139)
+2015-02-14 04:08:10.181448|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:11:10.620606|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45560'(id:139)
+2015-02-14 04:11:11.032171|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:14:10.690681|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37991'(id:139)
+2015-02-14 04:14:10.857438|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:17:10.794956|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:34008'(id:139)
+2015-02-14 04:17:10.987648|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:20:10.810113|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42424'(id:139)
+2015-02-14 04:20:11.038792|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:23:10.276026|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55955'(id:139)
+2015-02-14 04:23:10.540317|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:26:10.395590|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40268'(id:139)
+2015-02-14 04:26:10.554461|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:29:10.925920|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48685'(id:139)
+2015-02-14 04:29:11.165177|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:32:10.232601|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44082'(id:139)
+2015-02-14 04:32:10.402904|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:35:09.990805|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48843'(id:139)
+2015-02-14 04:35:10.284890|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:38:10.069432|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45130'(id:139)
+2015-02-14 04:38:10.250975|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:41:10.390680|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48094'(id:139)
+2015-02-14 04:41:10.634593|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:44:10.807274|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51453'(id:139)
+2015-02-14 04:44:11.060533|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:47:10.108804|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33472'(id:139)
+2015-02-14 04:47:10.290977|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:50:10.148535|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55262'(id:139)
+2015-02-14 04:50:10.439264|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:53:10.727613|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57942'(id:139)
+2015-02-14 04:53:11.103277|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:56:10.572679|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47816'(id:139)
+2015-02-14 04:56:10.772718|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 04:59:10.184738|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46210'(id:139)
+2015-02-14 04:59:10.471156|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:02:10.783201|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:60563'(id:139)
+2015-02-14 05:02:10.954523|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:05:10.625898|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57829'(id:139)
+2015-02-14 05:05:10.842194|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:08:10.773107|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44383'(id:139)
+2015-02-14 05:08:10.964231|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:11:10.473571|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:45899'(id:139)
+2015-02-14 05:11:10.655897|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:14:10.242806|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52472'(id:139)
+2015-02-14 05:14:10.671552|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:17:10.143523|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:32981'(id:139)
+2015-02-14 05:17:10.463822|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:20:10.871215|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57007'(id:139)
+2015-02-14 05:20:11.086413|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:23:10.461102|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49181'(id:139)
+2015-02-14 05:23:10.707016|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:23:25.976814|INFO    |VirtualServer |  1| client (id:123) was added to servergroup 'Otaku'(id:19) by client 'Scarlet'(id:253)
+2015-02-14 05:23:34.074600|INFO    |VirtualServer |  1| client (id:123) was removed from servergroup 'Otaku'(id:19) by client 'Scarlet'(id:253)
+2015-02-14 05:23:37.116487|INFO    |VirtualServer |  1| client (id:123) was added to servergroup 'Otaku'(id:19) by client 'Scarlet'(id:253)
+2015-02-14 05:25:16.850151|INFO    |VirtualServer |  1| client (id:123) was removed from servergroup 'Normal'(id:7) by client 'Scarlet'(id:253)
+2015-02-14 05:26:02.368512|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1541616497) was added by 'Scarlet'(id:253) to channel 'Piecyk Chlebka'(id:335)
+2015-02-14 05:26:10.171655|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52896'(id:139)
+2015-02-14 05:26:10.344310|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:26:18.129282|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1424893131) was added by 'Scarlet'(id:253) to channel 'RadioYaY'(id:306)
+2015-02-14 05:28:03.113095|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-805263419) was added by 'Scarlet'(id:253) to channel 'Unturned'(id:322)
+2015-02-14 05:28:34.356291|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1311383283) was added by 'Scarlet'(id:253) to channel 'Robocraft'(id:319)
+2015-02-14 05:29:10.744133|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56711'(id:139)
+2015-02-14 05:29:10.947938|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:29:10.966501|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-494246659) was added by 'Scarlet'(id:253) to channel 'Terraria'(id:338)
+2015-02-14 05:29:21.981685|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-494246659) was added by 'Scarlet'(id:253) to channel 'Terraria Serwer by Ashley'(id:230)
+2015-02-14 05:29:51.646471|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-1603541880) was added by 'Scarlet'(id:253) to channel 'TwiCraft'(id:221)
+2015-02-14 05:32:10.487900|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52005'(id:139)
+2015-02-14 05:32:10.677530|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:32:47.449396|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1869009416) was added by 'Scarlet'(id:253) to channel 'TwiCraft'(id:221)
+2015-02-14 05:35:10.263238|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57341'(id:139)
+2015-02-14 05:35:10.574325|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:38:10.233921|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37539'(id:139)
+2015-02-14 05:38:10.414903|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:39:19.018932|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:1996546674, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Discord'(id:38)
+2015-02-14 05:40:07.574637|INFO    |VirtualServer |  1| client (id:19) was removed from servergroup 'Prenium'(id:12) by client 'Scarlet'(id:253)
+2015-02-14 05:40:11.855493|INFO    |VirtualServer |  1| client (id:15) was removed from servergroup 'Prenium'(id:12) by client 'Scarlet'(id:253)
+2015-02-14 05:40:17.447569|INFO    |VirtualServer |  1| client (id:133) was removed from servergroup 'Prenium'(id:12) by client 'Scarlet'(id:253)
+2015-02-14 05:40:20.699656|INFO    |VirtualServer |  1| client (id:91) was removed from servergroup 'Prenium'(id:12) by client 'Scarlet'(id:253)
+2015-02-14 05:40:23.007247|INFO    |VirtualServer |  1| client (id:273) was removed from servergroup 'Prenium'(id:12) by client 'Scarlet'(id:253)
+2015-02-14 05:41:09.966340|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42870'(id:139)
+2015-02-14 05:41:10.211622|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:41:42.544446|INFO    |VirtualServer |  1| permission 'i_needed_modify_power_icon_id'(id:32910) was deleted by 'Scarlet'(id:253) from servergroup 'Candance'(id:37)
+2015-02-14 05:42:48.466741|INFO    |VirtualServer |  1| permission 'i_channel_join_power'(id:136) with values (value:50, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Prenium'(id:12)
+2015-02-14 05:42:48.467133|INFO    |VirtualServer |  1| permission 'i_client_move_power'(id:202) with values (value:0, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Prenium'(id:12)
+2015-02-14 05:42:48.469565|INFO    |VirtualServer |  1| permission 'i_client_kick_from_channel_power'(id:198) with values (value:0, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Prenium'(id:12)
+2015-02-14 05:42:48.469954|INFO    |VirtualServer |  1| permission 'i_client_kick_from_server_power'(id:196) with values (value:0, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Prenium'(id:12)
+2015-02-14 05:42:48.470230|INFO    |VirtualServer |  1| permission 'i_channel_delete_power'(id:129) with values (value:60, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Prenium'(id:12)
+2015-02-14 05:43:08.536309|INFO    |VirtualServer |  1| permission 'i_channel_delete_power'(id:129) with values (value:60, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'EnnekPL'(id:20)
+2015-02-14 05:43:16.363566|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_client_list'(id:152) was deleted by 'Scarlet'(id:253) from servergroup 'Legia Warszawa'(id:23)
+2015-02-14 05:43:16.392554|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_client_list'(id:155) was deleted by 'Scarlet'(id:253) from servergroup 'Legia Warszawa'(id:23)
+2015-02-14 05:43:59.981098|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_client_list'(id:152) was deleted by 'Scarlet'(id:253) from servergroup 'Chlebek'(id:21)
+2015-02-14 05:43:59.987434|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_client_list'(id:155) was deleted by 'Scarlet'(id:253) from servergroup 'Chlebek'(id:21)
+2015-02-14 05:44:00.043588|INFO    |VirtualServer |  1| permission 'i_channel_delete_power'(id:129) with values (value:60, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Chlebek'(id:21)
+2015-02-14 05:44:10.427385|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43483'(id:139)
+2015-02-14 05:44:10.658952|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:44:23.973062|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_client_list'(id:152) was deleted by 'Scarlet'(id:253) from servergroup 'EnnekPL'(id:20)
+2015-02-14 05:44:24.035064|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_client_list'(id:155) was deleted by 'Scarlet'(id:253) from servergroup 'EnnekPL'(id:20)
+2015-02-14 05:44:31.512195|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_client_list'(id:152) was deleted by 'Scarlet'(id:253) from servergroup 'Otaku'(id:19)
+2015-02-14 05:44:31.518090|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_client_list'(id:155) was deleted by 'Scarlet'(id:253) from servergroup 'Otaku'(id:19)
+2015-02-14 05:44:35.490197|INFO    |VirtualServer |  1| permission 'i_channel_delete_power'(id:129) with values (value:60, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'HL3-Confirmed'(id:17)
+2015-02-14 05:44:41.791675|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_client_list'(id:152) was deleted by 'Scarlet'(id:253) from servergroup 'HL3-Confirmed'(id:17)
+2015-02-14 05:44:41.807026|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_client_list'(id:155) was deleted by 'Scarlet'(id:253) from servergroup 'HL3-Confirmed'(id:17)
+2015-02-14 05:44:44.661167|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_client_list'(id:152) was deleted by 'Scarlet'(id:253) from servergroup 'Lol-Player'(id:15)
+2015-02-14 05:44:44.670591|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_client_list'(id:155) was deleted by 'Scarlet'(id:253) from servergroup 'Lol-Player'(id:15)
+2015-02-14 05:44:44.718318|INFO    |VirtualServer |  1| permission 'i_channel_delete_power'(id:129) with values (value:60, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lol-Player'(id:15)
+2015-02-14 05:44:48.353158|INFO    |VirtualServer |  1| permission 'b_virtualserver_servergroup_client_list'(id:152) was deleted by 'Scarlet'(id:253) from servergroup 'Ahri'(id:14)
+2015-02-14 05:44:48.358874|INFO    |VirtualServer |  1| permission 'b_virtualserver_channelgroup_client_list'(id:155) was deleted by 'Scarlet'(id:253) from servergroup 'Ahri'(id:14)
+2015-02-14 05:44:48.404309|INFO    |VirtualServer |  1| permission 'i_channel_delete_power'(id:129) with values (value:60, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Ahri'(id:14)
+2015-02-14 05:45:34.330843|INFO    |VirtualServer |  1| permission 'b_channel_delete_semi_permanent'(id:126) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Legia Warszawa'(id:23)
+2015-02-14 05:45:34.331173|INFO    |VirtualServer |  1| permission 'b_channel_delete_temporary'(id:127) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Legia Warszawa'(id:23)
+2015-02-14 05:45:34.331596|INFO    |VirtualServer |  1| permission 'b_channel_delete_flag_force'(id:128) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Legia Warszawa'(id:23)
+2015-02-14 05:45:49.260807|INFO    |VirtualServer |  1| permission 'b_channel_delete_semi_permanent'(id:126) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Ahri'(id:14)
+2015-02-14 05:45:49.262080|INFO    |VirtualServer |  1| permission 'b_channel_delete_temporary'(id:127) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Ahri'(id:14)
+2015-02-14 05:45:49.263249|INFO    |VirtualServer |  1| permission 'b_channel_delete_flag_force'(id:128) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Ahri'(id:14)
+2015-02-14 05:45:53.179142|INFO    |VirtualServer |  1| permission 'b_channel_delete_semi_permanent'(id:126) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lol-Player'(id:15)
+2015-02-14 05:45:53.179703|INFO    |VirtualServer |  1| permission 'b_channel_delete_temporary'(id:127) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lol-Player'(id:15)
+2015-02-14 05:45:53.180227|INFO    |VirtualServer |  1| permission 'b_channel_delete_flag_force'(id:128) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Lol-Player'(id:15)
+2015-02-14 05:46:01.468182|INFO    |VirtualServer |  1| permission 'b_channel_delete_semi_permanent'(id:126) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'HL3-Confirmed'(id:17)
+2015-02-14 05:46:01.468673|INFO    |VirtualServer |  1| permission 'b_channel_delete_temporary'(id:127) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'HL3-Confirmed'(id:17)
+2015-02-14 05:46:01.469119|INFO    |VirtualServer |  1| permission 'b_channel_delete_flag_force'(id:128) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'HL3-Confirmed'(id:17)
+2015-02-14 05:46:06.104904|INFO    |VirtualServer |  1| permission 'b_channel_delete_semi_permanent'(id:126) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Otaku'(id:19)
+2015-02-14 05:46:06.105214|INFO    |VirtualServer |  1| permission 'b_channel_delete_temporary'(id:127) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Otaku'(id:19)
+2015-02-14 05:46:06.105474|INFO    |VirtualServer |  1| permission 'b_channel_delete_flag_force'(id:128) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Otaku'(id:19)
+2015-02-14 05:46:10.684060|INFO    |VirtualServer |  1| permission 'b_channel_delete_semi_permanent'(id:126) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'EnnekPL'(id:20)
+2015-02-14 05:46:10.684462|INFO    |VirtualServer |  1| permission 'b_channel_delete_temporary'(id:127) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'EnnekPL'(id:20)
+2015-02-14 05:46:10.684841|INFO    |VirtualServer |  1| permission 'b_channel_delete_flag_force'(id:128) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'EnnekPL'(id:20)
+2015-02-14 05:46:15.402291|INFO    |VirtualServer |  1| permission 'b_channel_delete_semi_permanent'(id:126) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Chlebek'(id:21)
+2015-02-14 05:46:15.402662|INFO    |VirtualServer |  1| permission 'b_channel_delete_temporary'(id:127) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Chlebek'(id:21)
+2015-02-14 05:46:15.403010|INFO    |VirtualServer |  1| permission 'b_channel_delete_flag_force'(id:128) with values (value:1, negated:0, skipchannel:0) was added by 'Scarlet'(id:253) to servergroup 'Chlebek'(id:21)
+2015-02-14 05:47:10.748439|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40158'(id:139)
+2015-02-14 05:47:10.933539|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:50:10.798987|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54286'(id:139)
+2015-02-14 05:50:11.075026|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:53:10.011950|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56189'(id:139)
+2015-02-14 05:53:10.229383|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:56:10.262629|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33976'(id:139)
+2015-02-14 05:56:10.442450|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 05:59:10.385810|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:51976'(id:139)
+2015-02-14 05:59:10.557280|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:02:10.331483|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42333'(id:139)
+2015-02-14 06:02:10.618923|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:05:10.914415|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:32959'(id:139)
+2015-02-14 06:05:11.242275|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:08:09.994149|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33974'(id:139)
+2015-02-14 06:08:10.172535|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:11:10.835801|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47611'(id:139)
+2015-02-14 06:11:11.007163|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:14:10.865727|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33723'(id:139)
+2015-02-14 06:14:11.072057|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:17:09.967284|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35293'(id:139)
+2015-02-14 06:17:10.249566|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:20:10.717823|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40276'(id:139)
+2015-02-14 06:20:10.905531|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:23:10.658368|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:59249'(id:139)
+2015-02-14 06:23:10.849879|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:26:10.033168|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54941'(id:139)
+2015-02-14 06:26:10.226758|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:29:10.360938|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50234'(id:139)
+2015-02-14 06:29:10.615590|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:32:10.080017|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44597'(id:139)
+2015-02-14 06:32:10.269938|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:35:10.042572|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35901'(id:139)
+2015-02-14 06:35:10.319706|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:38:10.183757|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58770'(id:139)
+2015-02-14 06:38:10.366526|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:41:10.892043|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:36306'(id:139)
+2015-02-14 06:41:11.163011|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:44:10.948140|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53452'(id:139)
+2015-02-14 06:44:11.125888|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:47:10.326244|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:39117'(id:139)
+2015-02-14 06:47:10.542865|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:50:10.670990|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56329'(id:139)
+2015-02-14 06:50:11.063217|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:53:10.931766|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54578'(id:139)
+2015-02-14 06:53:11.179193|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:56:10.617770|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56966'(id:139)
+2015-02-14 06:56:10.893147|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 06:59:10.237733|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53735'(id:139)
+2015-02-14 06:59:10.528112|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:00:58.339000|INFO    |VirtualServer |  1| query client connected 'Unknown from 208.167.241.189:18496'(id:139)
+2015-02-14 07:00:58.494480|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:02:10.177772|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47320'(id:139)
+2015-02-14 07:02:10.364445|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:05:10.390606|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33377'(id:139)
+2015-02-14 07:05:10.627741|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:08:10.815543|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49605'(id:139)
+2015-02-14 07:08:11.027540|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:11:10.050408|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38657'(id:139)
+2015-02-14 07:11:10.230170|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:14:10.346957|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58226'(id:139)
+2015-02-14 07:14:10.529348|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:17:10.198472|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53344'(id:139)
+2015-02-14 07:17:10.406487|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:20:10.891771|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33308'(id:139)
+2015-02-14 07:20:11.119883|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:23:10.166246|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56138'(id:139)
+2015-02-14 07:23:10.368049|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:26:10.547733|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55266'(id:139)
+2015-02-14 07:26:10.723411|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:29:10.910557|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57084'(id:139)
+2015-02-14 07:29:11.121291|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:32:10.766132|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42796'(id:139)
+2015-02-14 07:32:10.928806|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:35:10.531871|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56362'(id:139)
+2015-02-14 07:35:10.880599|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:38:10.269803|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:46207'(id:139)
+2015-02-14 07:38:10.427869|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:39:27.565244|INFO    |VirtualServer |  1| query client connected 'Unknown from 208.167.241.186:38672'(id:139)
+2015-02-14 07:39:27.793683|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:41:10.889220|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:58268'(id:139)
+2015-02-14 07:41:11.086026|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:44:10.460132|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:54803'(id:139)
+2015-02-14 07:44:10.650285|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:47:10.047888|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33006'(id:139)
+2015-02-14 07:47:10.215861|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:50:10.729465|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:48099'(id:139)
+2015-02-14 07:50:11.023426|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:53:10.904621|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55348'(id:139)
+2015-02-14 07:53:11.111066|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:56:10.772641|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38935'(id:139)
+2015-02-14 07:56:10.952588|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 07:59:10.820520|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50856'(id:139)
+2015-02-14 07:59:10.993078|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:02:10.257168|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:40684'(id:139)
+2015-02-14 08:02:10.443225|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:05:10.521126|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43832'(id:139)
+2015-02-14 08:05:10.816862|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:08:10.583098|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43187'(id:139)
+2015-02-14 08:08:10.767090|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:11:10.066612|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33818'(id:139)
+2015-02-14 08:11:10.236325|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:14:10.779641|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37170'(id:139)
+2015-02-14 08:14:11.022620|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:17:10.228272|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:56201'(id:139)
+2015-02-14 08:17:10.466554|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:20:10.834525|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:38859'(id:139)
+2015-02-14 08:20:11.148033|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:23:10.478308|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:44140'(id:139)
+2015-02-14 08:23:10.685242|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:26:10.309441|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:34929'(id:139)
+2015-02-14 08:26:10.617074|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:29:10.499124|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50202'(id:139)
+2015-02-14 08:29:10.694049|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:32:11.034715|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:42828'(id:139)
+2015-02-14 08:32:11.238046|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:35:09.972008|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47935'(id:139)
+2015-02-14 08:35:10.147694|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:38:10.579882|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:59874'(id:139)
+2015-02-14 08:38:10.790986|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:41:10.726281|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33479'(id:139)
+2015-02-14 08:41:10.948496|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:44:10.628223|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55506'(id:139)
+2015-02-14 08:44:10.834601|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:47:10.336039|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49093'(id:139)
+2015-02-14 08:47:10.506812|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:50:10.747321|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:52907'(id:139)
+2015-02-14 08:50:11.194723|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:53:10.846308|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:35818'(id:139)
+2015-02-14 08:53:11.093107|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:56:10.891014|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:50841'(id:139)
+2015-02-14 08:56:11.061078|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 08:59:10.680687|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33022'(id:139)
+2015-02-14 08:59:11.006479|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:02:10.145972|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:43028'(id:139)
+2015-02-14 09:02:10.338850|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:05:40.395440|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:47695'(id:139)
+2015-02-14 09:05:40.609553|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:09:10.347707|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41324'(id:139)
+2015-02-14 09:09:10.509812|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:12:10.570883|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:57088'(id:139)
+2015-02-14 09:12:10.759241|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:15:11.009702|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33384'(id:139)
+2015-02-14 09:15:11.378382|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:18:40.239522|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:55338'(id:139)
+2015-02-14 09:18:40.475738|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:21:40.915900|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:36116'(id:139)
+2015-02-14 09:21:41.125203|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:24:02.156759|INFO    |VirtualServer |  1| client (id:273) was added to servergroup 'McKey'(id:9) by client 'McKeyPL'(id:2)
+2015-02-14 09:24:40.482437|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:53981'(id:139)
+2015-02-14 09:24:40.652131|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:25:14.371582|INFO    |VirtualServer |  1| client (id:63) was removed from servergroup 'Scarlet'(id:16) by client 'Admin'(id:273)
+2015-02-14 09:26:25.809466|INFO    |VirtualServer |  1| client (id:2) was removed from servergroup 'McKey'(id:9) by client 'McKeyPL'(id:2)
+2015-02-14 09:26:45.404193|INFO    |VirtualServer |  1| client (id:2) was added to servergroup 'Server Admin'(id:6) by client 'Admin'(id:273)
+2015-02-14 09:26:55.835594|INFO    |VirtualServer |  1| permission 'i_icon_id'(id:142) with values (value:-450503062, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-14 09:27:15.980257|INFO    |VirtualServer |  1| client (id:2) was added to servergroup 'McKey'(id:9) by client 'McKeyPL'(id:2)
+2015-02-14 09:27:23.152497|INFO    |VirtualServer |  1| client (id:2) was removed from servergroup 'Server Admin'(id:6) by client 'McKeyPL'(id:2)
+2015-02-14 09:28:10.777167|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41282'(id:139)
+2015-02-14 09:28:10.945209|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:28:31.149784|INFO    |VirtualServer |  1| client (id:2) was added to servergroup 'Server Admin'(id:6) by client 'McKeyPL'(id:2)
+2015-02-14 09:28:42.926614|INFO    |VirtualServer |  1| client (id:2) was removed from servergroup 'McKey'(id:9) by client 'McKeyPL'(id:2)
+2015-02-14 09:31:10.022654|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:37071'(id:139)
+2015-02-14 09:31:10.266116|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:31:59.796875|INFO    |VirtualServer |  1| permission 'i_permission_modify_power'(id:167) with values (value:74, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Scarlet'(id:16)
+2015-02-14 09:32:28.459872|INFO    |VirtualServer |  1| permission 'i_group_show_name_in_tree'(id:149) with values (value:0, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'Scarlet'(id:16)
+2015-02-14 09:32:30.790832|INFO    |VirtualServer |  1| permission 'i_group_show_name_in_tree'(id:149) was deleted by 'McKeyPL'(id:2) from servergroup 'Scarlet'(id:16)
+2015-02-14 09:32:35.772761|INFO    |VirtualServer |  1| permission 'i_group_show_name_in_tree'(id:149) with values (value:1, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-14 09:32:44.690999|INFO    |VirtualServer |  1| permission 'i_group_show_name_in_tree'(id:149) with values (value:2, negated:0, skipchannel:0) was added by 'McKeyPL'(id:2) to servergroup 'McKey'(id:9)
+2015-02-14 09:34:10.443096|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:41567'(id:139)
+2015-02-14 09:34:10.615509|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:37:06.318821|INFO    |VirtualServer |  1| client (id:2) was added to servergroup 'McKey'(id:9) by client 'McKeyPL'(id:2)
+2015-02-14 09:37:24.922416|INFO    |VirtualServer |  1| client (id:2) was removed from servergroup 'Server Admin'(id:6) by client 'McKeyPL'(id:2)
+2015-02-14 09:37:40.987805|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:33332'(id:139)
+2015-02-14 09:37:41.187906|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-02-14 09:39:33.527236|INFO    |VirtualServerBase|  1| stopped

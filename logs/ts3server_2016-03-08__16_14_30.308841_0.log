@@ -1,0 +1,24 @@
+2016-03-08 16:14:30.309030|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.2 (2014-12-15 14:43:52)
+2016-03-08 16:14:30.309231|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab111.12 #1 SMP Thu Sep 17 11:38:20 MSK 2015 x86_64 Binary: 64bit
+2016-03-08 16:14:30.310330|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-03-08 16:14:30.310382|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2016-03-08 16:14:30.310871|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2016-03-08 16:14:30.415414|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-08 16:14:30.415508|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-08 16:14:30.539802|INFO    |Accounting    |   | Licensing Information
+2016-03-08 16:14:30.539900|INFO    |Accounting    |   | type              : Non-profit
+2016-03-08 16:14:30.539963|INFO    |Accounting    |   | starting date     : Mon Dec 24 00:00:00 2012
+2016-03-08 16:14:30.539999|INFO    |Accounting    |   | ending date       : Sat Jun 29 00:00:00 2013
+2016-03-08 16:14:30.540031|INFO    |Accounting    |   | max virtualservers: 10
+2016-03-08 16:14:30.540066|INFO    |Accounting    |   | max slots         : 512
+2016-03-08 16:14:31.781204|INFO    |              |   | Puzzle precompute time: 1223
+2016-03-08 16:14:31.781771|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2016-03-08 16:14:31.781818|INFO    |VirtualSvrMgr |   | executing monthly interval
+2016-03-08 16:14:31.782132|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2016-03-08 16:14:31.936882|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2016-03-08 16:14:31.937404|INFO    |Query         |   | listening on 0.0.0.0:10011
+2016-03-08 16:14:31.947914|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-08 16:14:31.947991|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2016-03-08 16:15:46.695448|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.
+2016-03-08 16:15:47.111715|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2016-03-08 16:15:47.111815|ERROR   |              |   | Unable to connect to primary address, trying secondary

@@ -1,0 +1,8 @@
+2015-02-17 14:33:48.203399|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-02-17 14:45:01.101618|INFO    |VirtualServer |  1| permission 'i_client_needed_poke_power'(id:222) with values (value:1, negated:0, skipchannel:0) was added by 'F&#252;hrer'(id:2) to servergroup 'McKey'(id:9)
+2015-02-17 14:45:10.370222|INFO    |VirtualServer |  1| permission 'i_client_needed_private_textmessage_power'(id:215) with values (value:1, negated:0, skipchannel:0) was added by 'F&#252;hrer'(id:2) to servergroup 'McKey'(id:9)
+2015-02-17 14:45:30.362372|INFO    |VirtualServer |  1| permission 'i_client_whisper_power'(id:224) with values (value:100, negated:0, skipchannel:0) was added by 'F&#252;hrer'(id:2) to servergroup 'McKey'(id:9)
+2015-02-17 14:45:31.699223|INFO    |VirtualServer |  1| permission 'i_client_needed_whisper_power'(id:225) with values (value:100, negated:0, skipchannel:0) was added by 'F&#252;hrer'(id:2) to servergroup 'McKey'(id:9)
+2015-02-17 14:45:38.420383|INFO    |VirtualServer |  1| client (id:118) was removed from servergroup 'McKey'(id:9) by client 'F&#252;hrer'(id:2)
+2015-02-17 14:45:41.640411|INFO    |VirtualServer |  1| client (id:119) was removed from servergroup 'McKey'(id:9) by client 'F&#252;hrer'(id:2)
+2015-02-17 14:45:52.845086|INFO    |VirtualServerBase|  1| stopped

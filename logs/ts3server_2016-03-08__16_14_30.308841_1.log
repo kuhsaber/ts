@@ -1,0 +1,4 @@
+2016-03-08 16:14:31.925339|ERROR   |ChanClients   |  1| unable to delete channel directory: files/virtualserver_1/channel_445
+2016-03-08 16:14:31.933035|INFO    |VirtualServerBase|  1| channel 'Zajebiste servery Hi-Rez!'(id:445) deleted by 'server'(id:0)
+2016-03-08 16:14:31.936644|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-03-08 16:15:46.850719|INFO    |VirtualServerBase|  1| stopped

@@ -1,0 +1,4 @@
+2015-04-22 23:43:22.135693|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2015-04-22 23:44:08.004622|INFO    |VirtualServer |  1| query client connected 'Unknown from 108.61.78.149:49388'(id:139)
+2015-04-22 23:44:08.394818|INFO    |VirtualServerBase|  1| query client disconnected 'GameTracker'(id:139) reason 'reasonmsg=connection lost'
+2015-04-23 00:48:08.679517|INFO    |VirtualServerBase|  1| stopped

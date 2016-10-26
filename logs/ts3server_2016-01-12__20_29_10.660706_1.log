@@ -1,0 +1,15 @@
+2016-01-12 20:29:13.582324|INFO    |VirtualServer |  1| listening on 0.0.0.0:9987
+2016-01-12 21:22:10.494009|INFO    |VirtualServer |  1| client (id:2340) was added to servergroup 'Zarejestrowany'(id:7) by client 'McKeyPL'(id:2)
+2016-01-12 22:57:58.750531|INFO    |VirtualServerBase|  1| channel 'Skiny Mattika'(id:599) edited by 'MattikXD'(id:222)
+2016-01-13 07:01:03.292684|INFO    |VirtualServerBase|  1| channel 'Skiny Mattika'(id:599) edited by 'MattikXD'(id:222)
+2016-01-14 12:32:17.827814|INFO    |VirtualServerBase|  1| channel 'hlebek'(id:721) created as sub channel of 'Prenium:'(id:179) by 'Scarlet'(id:1383)
+2016-01-14 12:32:23.798303|INFO    |VirtualServerBase|  1| channel 'hlebek'(id:721) edited by 'Scarlet'(id:1383)
+2016-01-14 12:34:21.457945|INFO    |VirtualServerBase|  1| channel 'hlebek'(id:721) edited by 'hlebek'(id:1450)
+2016-01-14 12:50:21.192526|INFO    |VirtualServerBase|  1| channel 'Piecyk hlebka'(id:615) edited by 'hlebek'(id:1450)
+2016-01-14 13:24:31.391393|INFO    |VirtualServerBase|  1| channel 'Yoyoyoyoyoy'(id:722) created by 'Szablos'(id:1910)
+2016-01-14 16:20:54.744585|INFO    |VirtualServerBase|  1| channel 'Yoyoyoyoyoy'(id:722) deleted by 'server'(id:0)
+2016-01-14 19:16:00.281938|INFO    |VirtualServerBase|  1| channel 'Skiny Mattika'(id:599) edited by 'MattikXD'(id:222)
+2016-01-14 19:16:13.301399|INFO    |VirtualServerBase|  1| channel 'Skiny Mattika'(id:599) edited by 'MattikXD'(id:222)
+2016-01-15 20:41:53.398195|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) with values (value:1) was added by 'McKeyPL'(id:2) for client (id:1383) and channel 'Red Scarlet 4 iLuminacja'(id:605)
+2016-01-15 20:42:26.932292|INFO    |VirtualServer |  1| permission 'b_client_is_priority_speaker'(id:177) was deleted by 'Scarlet'(id:1383) for client (id:1383) and channel 'Red Scarlet 4 iLuminacja'(id:605)
+2016-01-15 22:36:23.803920|INFO    |VirtualServerBase|  1| stopped

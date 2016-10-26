@@ -1,0 +1,9 @@
+2015-04-24 22:07:37.976470|INFO    |VirtualServer |  2| listening on 0.0.0.0:9988
+2015-04-24 22:07:37.977911|INFO    |VirtualServer |  2| client 'server'(id:0) added privilege key for servergroup 'Server Admin'(id:57)
+2015-04-24 22:07:37.977960|WARNING |VirtualServer |  2| --------------------------------------------------------
+2015-04-24 22:07:37.977997|WARNING |VirtualServer |  2| ServerAdmin privilege key created, please use the line below
+2015-04-24 22:07:37.978033|WARNING |VirtualServer |  2| token=RN0k5rRakw85mEXgEEptPlWWMEFWJyaEl1px2UAe
+2015-04-24 22:07:37.978069|WARNING |VirtualServer |  2| --------------------------------------------------------
+2015-04-24 22:08:08.333839|INFO    |VirtualServer |  2| client (id:892) was added to servergroup 'Server Admin'(id:57) by client 'server'(id:0)
+2015-04-24 22:08:08.336369|INFO    |VirtualServer |  2| client 'McKeyPL'(id:892) used privilege key 'RN0k5rRakw85mEXgEEptPlWWMEFWJyaEl1px2UAe' and was added to servergroup 'Server Admin'(id:57)
+2015-04-24 22:08:22.367870|INFO    |VirtualServerBase|  2| stopped

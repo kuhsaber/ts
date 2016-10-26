@@ -1,0 +1,1429 @@
+2015-06-05 04:01:54.664868|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.11.2 (2014-12-15 14:43:52)
+2015-06-05 04:01:54.665132|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab106.4 #1 SMP Fri Mar 27 15:19:28 MSK 2015 x86_64 Binary: 64bit
+2015-06-05 04:01:54.679635|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-06-05 04:01:54.679773|INFO    |DatabaseQuery |   | dbPlugin version: 3.6.21
+2015-06-05 04:01:54.682360|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-06-05 04:01:54.840657|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 04:01:54.840767|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 04:01:54.963432|INFO    |Accounting    |   | Licensing Information
+2015-06-05 04:01:54.963540|INFO    |Accounting    |   | type              : Non-profit
+2015-06-05 04:01:54.963615|INFO    |Accounting    |   | starting date     : Mon Dec 24 00:00:00 2012
+2015-06-05 04:01:54.963668|INFO    |Accounting    |   | ending date       : Sat Jun 29 00:00:00 2013
+2015-06-05 04:01:54.963708|INFO    |Accounting    |   | max virtualservers: 10
+2015-06-05 04:01:54.963747|INFO    |Accounting    |   | max slots         : 512
+2015-06-05 04:01:58.886743|INFO    |              |   | Puzzle precompute time: 3872
+2015-06-05 04:01:58.888530|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-06-05 04:01:59.271860|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-06-05 04:01:59.272843|INFO    |Query         |   | listening on 0.0.0.0:10011
+2015-06-05 04:01:59.386801|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 04:01:59.386908|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 05:10:43.478112|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 05:10:43.478248|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 06:20:53.270072|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 06:20:53.274029|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 06:20:53.274139|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 07:32:02.037845|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 07:32:02.038275|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 07:32:02.038351|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 08:14:44.510900|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 08:14:44.511010|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 08:40:29.125606|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 08:40:29.125742|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 09:53:00.872026|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 09:53:00.872877|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 09:53:00.872982|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 11:05:50.906039|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 11:05:50.906825|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 11:05:50.906936|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 12:20:22.983161|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 12:20:22.983888|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 12:20:22.984024|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 13:34:00.120487|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 13:34:00.132530|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 13:34:00.132631|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 14:43:29.004441|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 14:43:29.004563|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 15:54:52.510740|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 15:54:52.511261|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 15:54:52.511322|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 17:05:07.170727|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 17:05:07.171384|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 17:05:07.171490|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 18:14:37.634857|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 18:14:37.635050|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 19:22:58.645018|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 19:22:58.645200|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 20:31:37.589570|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 20:31:37.589813|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 21:41:51.436696|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 21:41:51.437159|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 21:41:51.437219|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-05 22:53:19.593447|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-05 22:53:19.593860|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-05 22:53:19.593918|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 00:01:42.838942|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 00:01:44.687865|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 01:11:18.075831|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 01:11:18.077034|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 02:20:56.235228|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 02:20:56.235366|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 03:31:19.465453|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-06 03:31:19.466068|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 03:31:19.466134|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 04:39:55.135889|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 04:39:55.136041|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 05:47:50.628124|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 05:47:50.628408|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 06:54:52.259186|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 06:54:52.259340|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 08:03:37.178303|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 08:03:37.178436|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 09:12:01.201008|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 09:12:01.201198|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 10:21:09.414251|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 10:21:09.414379|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 11:29:21.639134|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 11:29:21.639387|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 12:37:23.637315|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 12:37:23.637547|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 13:45:18.533426|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 13:45:18.533582|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 14:53:26.605805|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 14:53:26.606167|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 16:01:52.296337|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 16:01:52.296618|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 17:11:41.464696|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 17:11:41.464817|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 18:21:01.163329|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 18:21:01.163532|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 19:30:57.283642|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 19:30:57.283847|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 20:39:51.683860|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 20:39:51.684062|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 21:49:45.633969|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 21:49:45.634145|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-06 23:02:42.052907|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-06 23:02:42.101810|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-06 23:02:42.101984|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 00:14:00.902292|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-07 00:14:00.905267|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 00:14:00.905358|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 01:23:23.044137|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 01:23:23.044445|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 02:33:55.321108|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-07 02:33:55.329499|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 02:33:55.329618|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 03:43:50.307469|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 03:43:50.307624|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 04:53:35.228780|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 04:53:35.228943|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 06:01:56.187312|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 06:01:56.187458|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 07:11:09.884046|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 07:11:09.884335|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 08:20:30.167141|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 08:20:30.167295|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 09:29:23.144267|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 09:29:23.144472|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 10:40:06.877522|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-07 10:40:06.878242|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 10:40:06.878320|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 11:50:36.123628|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-07 11:50:36.125835|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 11:50:36.125904|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 13:00:44.028138|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-07 13:00:44.038240|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 13:00:44.038383|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 14:08:36.636733|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 14:08:36.636840|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 15:17:44.366572|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 15:17:44.366698|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 16:26:43.579918|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 16:26:43.580098|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 17:35:36.038330|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 17:35:36.038495|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 18:45:24.036632|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 18:45:24.036764|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 19:54:17.592577|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 19:54:17.592692|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 21:03:10.141065|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 21:03:10.141189|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 22:11:24.662371|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 22:11:24.662491|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-07 23:19:41.005779|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-07 23:19:41.005999|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 00:27:41.155911|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 00:27:41.224170|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 01:37:41.476504|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 01:37:41.476769|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 02:46:08.257342|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 02:46:08.257467|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 03:52:54.732222|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 03:52:54.732357|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 04:58:23.261137|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 04:58:23.261407|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 06:05:55.631863|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 06:05:55.632176|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 07:13:49.639191|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 07:13:49.639350|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 08:21:00.736735|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 08:21:00.736876|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 09:29:58.913425|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 09:29:58.923362|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 10:39:38.654511|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 10:39:38.664321|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 11:47:50.768597|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 11:47:50.778911|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 12:55:59.790305|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 12:55:59.805397|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 14:05:20.921815|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 14:05:21.066875|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 15:18:48.181786|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-08 15:18:48.220259|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 15:18:48.220379|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 16:35:04.895792|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-08 16:35:04.896805|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 16:35:04.896901|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 17:49:19.227654|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-08 17:49:19.228326|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 17:49:19.228393|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 18:59:35.084211|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-08 18:59:35.085425|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 18:59:35.085503|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 20:13:54.468321|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-08 20:13:54.469216|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 20:13:54.469330|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 21:26:37.096580|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-08 21:26:37.097285|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 21:26:37.097339|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 22:36:46.850585|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-08 22:36:46.851033|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 22:36:46.851085|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-08 23:43:51.344147|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-08 23:43:51.344342|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 00:52:00.614824|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 00:52:00.615200|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 01:59:56.288385|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 01:59:56.288555|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 03:07:03.933131|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 03:07:03.933451|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 04:14:04.239120|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 04:14:04.239244|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 05:21:12.543579|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 05:21:12.544456|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 06:30:11.343868|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 06:30:11.344056|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 07:39:05.129947|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 07:39:05.130125|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 08:47:38.024723|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 08:47:38.025011|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 09:54:22.675389|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 09:54:22.677192|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 11:02:09.499337|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 11:02:09.499582|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 12:10:44.582105|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 12:10:44.582245|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 13:20:54.783249|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-09 13:20:54.783880|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 13:20:54.783970|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 14:34:32.010343|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-09 14:34:32.077294|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 14:34:32.077401|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 15:47:44.520883|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-09 15:47:44.522225|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 15:47:44.522321|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 17:01:21.790237|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-09 17:01:21.850257|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 17:01:21.850436|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 18:14:16.784961|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-09 18:14:16.785570|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 18:14:16.785772|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 19:24:41.326508|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-09 19:24:41.345285|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 19:24:41.345362|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 19:50:12.974641|ERROR   |Query         |   | onRemoveConnection called with an invalid clientSocketID: 3309
+2015-06-09 20:34:22.933940|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 20:34:22.936896|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 21:43:13.503854|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 21:43:13.503993|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-09 22:52:51.032563|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-09 22:52:51.032680|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 00:02:36.614816|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 00:02:36.614954|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 01:12:05.430087|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 01:12:05.430315|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 02:21:11.416844|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 02:21:11.417080|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 03:29:58.731024|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 03:29:58.731320|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 04:36:25.558133|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 04:36:25.558297|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 05:44:43.828062|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 05:44:43.828205|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 06:56:44.631138|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 06:56:44.634119|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 06:56:44.634620|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 08:10:41.490978|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 08:10:41.491726|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 08:10:41.491827|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 09:23:43.502060|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 09:23:43.502630|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 09:23:43.502689|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 10:37:12.036830|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 10:37:12.037456|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 10:37:12.037524|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 11:51:07.335776|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 11:51:07.336825|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 11:51:07.336942|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 13:05:54.487078|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 13:05:54.487960|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 13:05:54.488119|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 14:19:19.955207|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 14:19:19.963779|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 14:19:19.963873|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 15:31:51.454211|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 15:31:51.454748|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 15:31:51.454808|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 16:44:56.677074|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 16:44:56.677603|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 16:44:56.677665|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 17:57:29.308634|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 17:57:29.309167|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 17:57:29.309245|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 19:09:31.659664|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 19:09:31.694350|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 19:09:31.694509|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 20:20:17.562904|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 20:20:17.563392|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 20:20:17.563452|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 21:31:31.023129|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 21:31:31.024973|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 21:31:31.025110|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 22:22:50.007315|INFO    |Query         |   | query from 4075 78.10.58.230:1070 attempted to login with account "serveradmin" and failed!
+2015-06-10 22:23:04.890348|INFO    |Query         |   | query from 4076 78.10.58.230:1071 issued: login with account "serveradmin"(serveradmin)
+2015-06-10 22:43:40.431798|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-10 22:43:40.432723|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 22:43:40.432956|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-10 23:52:09.239413|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-10 23:52:09.239661|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 01:02:31.138923|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 01:02:31.139615|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 01:02:31.139754|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 02:12:34.778892|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 02:12:34.779441|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 02:12:34.779510|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 03:20:42.623450|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 03:20:42.623577|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 04:27:33.347521|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 04:27:33.347661|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 05:34:44.560543|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 05:34:44.560808|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 06:48:09.667923|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 06:48:09.672066|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 06:48:09.672179|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 07:58:07.995073|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 07:58:07.995425|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 09:08:32.428368|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 09:08:32.429003|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 09:08:32.429082|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 10:20:55.527428|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 10:20:55.528029|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 10:20:55.528126|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 11:31:06.756511|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 11:31:06.757079|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 11:31:06.757158|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 12:43:58.214072|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 12:43:58.215372|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 12:43:58.215552|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 13:57:14.552562|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 13:57:14.553302|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 13:57:14.553371|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 15:09:42.848721|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 15:09:42.854205|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 15:09:42.854411|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 16:18:01.086277|INFO    |Query         |   | query from 4577 78.10.58.230:51664 issued: login with account "serveradmin"(serveradmin)
+2015-06-11 16:18:23.938967|INFO    |VirtualSvrMgr |   | startServer() VirtualServer(2) started
+2015-06-11 16:26:51.778643|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 16:26:51.779509|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 16:26:51.779614|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 16:27:58.083718|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:28:00.000149|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:37:56.787623|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:37:58.000267|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:38:00.092494|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:47:56.840303|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:47:58.011367|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:48:00.059879|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:57:56.920047|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:57:58.000076|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 16:58:00.162347|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:07:56.947577|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:07:58.036328|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:08:00.125007|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:17:57.048688|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:17:59.006529|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:18:01.000067|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:27:57.249872|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:27:59.001875|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:28:01.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:37:57.195842|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:37:59.036193|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:38:01.038341|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:43:30.303168|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 17:43:30.304261|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 17:43:30.304451|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 17:47:57.345813|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:47:59.239887|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:48:01.015434|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:57:57.562192|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:57:59.000072|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 17:58:01.009179|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:07:57.898939|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:07:59.012624|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:08:01.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:17:58.272737|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:18:00.012051|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:18:02.132346|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:27:58.311948|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:28:00.049984|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:28:02.133894|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:37:58.424232|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:38:00.081628|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:38:02.072024|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:47:58.567690|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:48:00.136734|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:48:02.475396|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:57:58.559518|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:58:00.052118|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:58:02.002697|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 18:59:04.950953|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 18:59:04.951856|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 18:59:04.951990|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 19:07:58.605505|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:08:00.000128|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:08:02.193293|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:17:58.539996|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:18:00.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:18:03.841455|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:27:58.690119|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:28:00.000065|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:28:02.014956|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:37:58.670851|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:38:00.000067|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:38:02.000066|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:47:58.742179|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:48:00.000445|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:48:02.257739|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:57:58.860637|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:58:00.000050|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 19:58:02.000273|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:07:59.026205|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:08:01.000055|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:08:03.000261|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:14:02.481650|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 20:14:02.482252|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 20:14:02.482321|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 20:17:58.991307|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:18:00.000097|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:18:02.000112|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:27:59.011184|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:28:01.024498|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:28:03.000068|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:37:59.158737|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:38:01.036305|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:38:03.000141|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:47:59.249337|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:48:01.000481|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:48:03.000264|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:57:59.337077|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:58:01.000108|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 20:58:03.012154|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:07:59.289209|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:08:01.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:08:03.000072|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:17:59.378401|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:18:01.000280|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:18:03.009521|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:25:24.497582|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 21:25:24.498090|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 21:25:24.498168|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 21:27:59.464260|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:28:01.000091|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:28:03.172252|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:37:59.343432|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:38:01.000181|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:38:03.019882|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:47:59.508206|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:48:01.007960|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:48:03.000070|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:57:59.578613|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:58:01.000279|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 21:58:03.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:07:59.591110|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:08:01.007112|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:08:03.010712|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:17:59.675073|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:18:01.000063|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:18:03.036360|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:27:59.566062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:28:01.000128|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:28:03.000116|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:36:56.872898|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 22:36:56.873329|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 22:36:56.873391|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 22:37:59.751860|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:38:01.000233|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:38:03.000048|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:47:59.879417|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:48:01.053540|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:48:03.000275|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:57:59.939349|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:58:01.000069|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 22:58:03.152736|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:08:00.089384|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:08:02.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:08:04.022503|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:18:00.363209|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:18:02.268943|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:18:04.000076|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:28:00.206910|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:28:02.000075|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:28:04.339629|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:38:00.256081|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:38:02.058415|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:38:04.266018|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:47:31.055138|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-11 23:47:31.055931|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-11 23:47:31.055997|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-11 23:48:00.398725|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:48:02.082486|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:48:04.003637|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:58:00.625122|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:58:02.263404|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-11 23:58:04.034737|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:08:00.677440|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:08:02.000097|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:08:04.006477|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:18:00.771305|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:18:02.081371|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:18:04.000100|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:28:00.837460|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:28:02.000072|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:28:04.031099|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:38:01.127087|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:38:03.000053|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:38:05.000050|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:48:01.064024|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:48:03.082999|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:48:05.041155|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:58:01.138301|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:58:03.000081|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:58:05.147127|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 00:58:39.406731|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-12 00:58:39.407662|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 00:58:39.407729|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 01:08:01.125689|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:08:03.009374|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:08:05.000071|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:18:01.230866|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:18:03.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:18:05.141192|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:28:01.261835|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:28:03.000281|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:28:05.000076|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:38:01.290381|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:38:03.000091|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:38:05.025856|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:48:01.296369|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:48:03.000066|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:48:05.000260|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:58:01.324833|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:58:03.037613|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 01:58:05.000075|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:05:41.151471|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 02:05:41.151583|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 02:08:01.536617|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:08:03.098954|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:08:05.009418|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:18:01.460625|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:18:03.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:18:05.040299|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:28:01.398059|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:28:03.022437|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:28:05.000069|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:38:01.546282|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:38:03.023284|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:38:05.079330|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:48:01.547457|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:48:03.000316|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:48:05.238167|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:58:01.558788|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:58:03.026184|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 02:58:05.016961|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:08:01.691561|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:08:03.000572|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:08:05.039513|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:10:51.455804|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 03:10:51.455997|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 03:18:01.722623|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:18:03.000111|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:18:05.010010|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:28:01.787812|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:28:03.000307|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:28:05.000518|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:38:01.912713|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:38:03.000089|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:38:05.000278|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:48:01.943661|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:48:03.015516|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:48:05.023664|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:58:01.979127|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:58:03.267546|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 03:58:05.000082|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:08:02.107106|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:08:04.000067|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:08:06.000106|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:16:21.712014|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 04:16:21.712341|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 04:18:02.170296|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:18:04.082500|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:18:06.441671|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:28:02.167302|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:28:04.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:28:06.092737|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:38:02.228913|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:38:04.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:38:06.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:48:02.277916|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:48:04.052571|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:48:06.000097|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:58:02.288059|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:58:04.044621|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 04:58:06.040678|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:08:02.434977|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:08:04.000066|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:08:06.000257|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:18:02.347952|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:18:04.000061|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:18:06.035561|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:23:48.736020|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 05:23:48.736295|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 05:28:02.621001|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:28:04.037608|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:28:06.017912|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:38:02.693503|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:38:04.000268|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:38:06.001288|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:48:02.765000|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:48:04.000069|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:48:06.009482|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:58:02.848253|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:58:04.000101|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 05:58:06.000059|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:08:02.895650|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:08:04.000069|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:08:06.003141|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:18:02.798412|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:18:04.231520|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:18:06.000068|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:28:03.012032|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:28:05.000267|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:28:07.000061|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:32:16.023723|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 06:32:16.023891|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 06:38:03.173604|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:38:05.035560|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:38:07.000240|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:48:03.435302|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:48:05.062416|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:48:07.000096|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:58:03.239758|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:58:05.000089|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 06:58:07.000065|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:08:03.938273|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:08:05.047306|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:08:07.000063|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:18:03.904561|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:18:05.003187|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:18:07.010168|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:28:03.932230|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:28:05.007180|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:28:07.000148|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:38:03.954613|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:38:05.000063|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:38:07.000064|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:40:24.154243|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 07:40:24.154664|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 07:48:04.050852|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:48:06.000121|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:48:08.052821|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:58:04.131133|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:58:06.000316|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 07:58:08.000063|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:08:04.191220|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:08:06.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:08:08.000247|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:18:07.775428|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:18:09.097449|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:18:11.000108|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:28:07.765732|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:28:09.000086|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:28:11.000287|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:38:07.705078|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:38:09.083112|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:38:11.035191|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:48:07.859958|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:48:09.010994|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:48:11.024162|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:48:48.137108|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 08:48:48.137443|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 08:58:08.009199|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:58:10.020996|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 08:58:12.022854|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:08:07.817838|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:08:09.247957|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:08:11.011029|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:18:08.024888|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:18:10.000321|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:18:12.019883|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:28:08.069559|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:28:10.000109|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:28:12.000390|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:38:08.097315|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:38:10.000064|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:38:12.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:48:08.100571|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:48:10.017060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:48:12.000161|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:55:22.970036|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 09:55:22.970161|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 09:58:08.119984|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:58:10.000347|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 09:58:12.000107|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:08:08.512479|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:08:10.035842|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:08:12.000571|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:18:08.463691|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:18:10.009309|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:18:12.029113|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:28:08.515798|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:28:10.000092|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:28:12.000073|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:38:08.671506|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:38:10.325459|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:38:12.206423|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:48:08.757835|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:48:10.007847|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:48:12.036459|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:58:08.990023|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:58:10.048316|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 10:58:12.000070|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:05:23.977474|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-12 11:05:23.978184|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 11:05:23.978272|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 11:08:08.889383|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:08:10.002662|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:08:12.010049|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:18:08.899905|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:18:10.000273|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:18:12.275525|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:28:08.937651|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:28:10.072521|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:28:12.000342|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:38:08.967349|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:38:10.042754|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:38:12.000104|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:48:09.217896|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:48:11.000066|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:48:13.000063|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:58:09.144645|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:58:11.006660|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 11:58:13.000058|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:08:09.237974|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:08:11.000079|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:08:13.000402|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:15:42.716332|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-12 12:15:42.717198|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 12:15:42.717414|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 12:18:09.260874|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:18:11.030283|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:18:13.003017|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:28:09.351282|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:28:11.000071|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:28:13.000101|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:38:09.295900|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:38:11.022014|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:38:13.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:48:09.431785|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:48:11.000101|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:48:13.075547|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:58:10.230271|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:58:12.039428|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 12:58:14.482996|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:08:09.623335|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:08:11.001408|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:08:13.000251|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:18:09.621694|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:18:11.000097|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:18:13.006623|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:25:53.427566|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-12 13:25:53.428227|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 13:25:53.428313|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 13:28:09.612249|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:28:11.000338|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:28:13.000711|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:38:09.856414|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:38:11.058362|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:38:13.000268|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:48:09.955163|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:48:11.000071|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:48:13.081384|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:58:09.953101|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:58:11.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 13:58:13.000079|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:08:10.354589|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:08:12.002857|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:08:14.158402|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:18:10.357665|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:18:12.000362|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:18:14.000076|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:28:10.375623|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:28:12.010924|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:28:14.000244|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:35:00.186004|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 14:35:00.186145|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 14:38:10.532977|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:38:12.000064|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:38:14.000319|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:48:11.053494|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:48:13.016019|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:48:15.001609|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:58:10.713946|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:58:12.069674|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 14:58:14.000077|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:08:10.693810|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:08:12.054828|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:08:14.041265|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:18:10.842575|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:18:12.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:18:14.000066|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:28:10.879314|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:28:12.049490|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:28:14.022996|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:38:10.917744|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:38:12.000294|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:38:14.267572|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:44:09.494530|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 15:44:09.494823|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 15:48:11.070790|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:48:13.000313|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:48:15.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:58:10.935890|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:58:12.000111|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 15:58:14.000385|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:08:10.945627|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:08:12.009253|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:08:14.000088|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:18:11.095580|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:18:13.000083|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:18:15.000433|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:28:11.184189|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:28:13.000313|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:28:15.073140|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:38:11.394533|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:38:13.040371|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:38:15.000252|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:48:11.610251|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:48:13.034775|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:48:15.041325|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:55:26.236269|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-12 16:55:26.237323|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 16:55:26.237517|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 16:58:11.599267|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:58:13.000176|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 16:58:15.000075|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:08:11.878819|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:08:13.191579|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:08:15.000080|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:18:12.014693|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:18:14.118281|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:18:16.000055|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:28:12.105132|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:28:14.032925|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:28:16.056659|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:38:12.128739|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:38:14.000077|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:38:16.000109|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:48:12.143882|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:48:14.000084|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:48:16.000088|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:58:12.227814|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:58:14.000240|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 17:58:16.000054|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:05:54.930559|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-12 18:05:54.931255|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 18:05:54.931441|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 18:08:12.221535|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:08:14.000069|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:08:16.000285|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:18:12.254172|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:18:14.002012|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:18:16.073875|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:28:12.211188|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:28:14.000389|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:28:16.000678|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:38:12.341559|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:38:14.000246|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:38:16.000082|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:48:12.413492|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:48:14.000083|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:48:16.040606|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:58:12.412064|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:58:14.000048|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 18:58:16.000052|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:08:12.461131|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:08:14.253840|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:08:16.000058|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:17:19.148310|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-12 19:17:19.150767|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 19:17:19.150881|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 19:18:12.565805|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:18:14.000244|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:18:16.012574|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:28:12.634138|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:28:14.084816|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:28:16.000436|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:38:12.680095|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:38:14.000071|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:38:16.000089|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:48:12.835057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:48:14.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:48:16.026971|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:58:12.753364|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:58:14.000277|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 19:58:16.000083|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:08:12.812391|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:08:14.000175|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:08:16.000254|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:18:12.822806|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:18:14.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:18:16.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:28:04.033576|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-12 20:28:04.034196|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 20:28:04.034269|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 20:28:12.836038|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:28:14.005095|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:28:16.000072|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:38:12.932747|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:38:14.000269|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:38:16.004493|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:48:13.020771|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:48:15.000331|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:48:17.002060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:58:13.062096|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:58:15.000123|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 20:58:17.000210|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:08:13.068563|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:08:15.000684|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:08:17.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:18:13.316548|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:18:15.044872|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:18:17.046483|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:28:13.364568|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:28:15.000294|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:28:17.000053|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:37:46.506054|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 21:37:46.506385|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 21:38:13.384675|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:38:15.000077|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:38:17.000207|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:48:13.350135|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:48:15.000054|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:48:17.000065|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:58:13.528737|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:58:15.000080|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 21:58:17.000099|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:08:13.588529|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:08:15.029254|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:08:17.008919|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:18:13.530298|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:18:15.000070|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:18:17.000234|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:28:13.556647|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:28:15.012754|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:28:17.000083|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:38:13.574124|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:38:15.000081|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:38:17.000092|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:48:13.671661|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:48:13.789362|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-12 22:48:13.791286|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 22:48:13.791403|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 22:48:15.104848|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:48:17.094417|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:58:13.675672|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:58:15.000054|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 22:58:17.000238|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:08:13.721000|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:08:15.000048|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:08:17.210074|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:18:13.755151|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:18:15.000097|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:18:17.000050|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:28:13.827464|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:28:15.000283|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:28:17.000072|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:38:13.920149|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:38:15.000071|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:38:17.000276|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:48:13.969954|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:48:15.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:48:17.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:58:01.493514|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-12 23:58:01.493677|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-12 23:58:14.012684|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:58:16.000086|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-12 23:58:18.000061|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:08:14.027526|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:08:16.136719|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:08:18.000084|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:18:14.111542|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:18:16.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:18:18.000236|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:28:14.291573|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:28:16.000123|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:28:18.000087|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:38:14.255367|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:38:16.000088|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:38:18.000067|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:48:14.193720|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:48:16.000281|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:48:18.000071|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:58:14.302627|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:58:16.000061|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 00:58:18.000245|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:07:11.491795|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 01:07:11.491950|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 01:08:14.461583|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:08:16.105692|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:08:18.000064|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:18:14.439567|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:18:16.134779|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:18:18.037266|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:28:14.495215|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:28:16.000277|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:28:18.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:38:14.575683|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:38:16.000478|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:38:18.010473|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:48:14.790143|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:48:16.005275|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:48:18.062155|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:58:14.719195|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:58:16.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 01:58:18.000064|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:08:14.867601|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:08:16.003633|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:08:18.000067|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:18:14.805125|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:18:16.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:18:16.616112|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 02:18:16.616566|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 02:18:16.616644|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 02:18:18.018398|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:28:14.967839|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:28:16.000074|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:28:18.000066|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:38:15.238446|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:38:17.000083|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:38:19.000084|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:48:15.322126|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:48:17.000258|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:48:19.000070|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:58:15.364282|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:58:17.050590|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 02:58:19.022960|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:08:15.304761|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:08:17.000288|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:08:19.000085|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:18:15.427122|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:18:17.000084|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:18:19.000084|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:27:05.965766|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 03:27:05.965959|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 03:28:15.459971|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:28:17.000211|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:28:19.000064|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:38:15.515573|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:38:17.000104|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:38:19.015062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:48:15.570193|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:48:17.339041|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:48:19.000064|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:58:15.535921|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:58:17.054351|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 03:58:19.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:08:15.826315|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:08:17.000313|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:08:19.000065|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:18:15.871208|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:18:17.000068|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:18:19.000243|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:28:15.897060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:28:17.000093|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:28:19.000082|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:35:20.249301|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 04:35:20.249409|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 04:38:15.882013|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:38:17.000068|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:38:19.104034|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:48:16.059203|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:48:18.036341|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:48:20.036968|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:58:16.048778|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:58:18.000257|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 04:58:20.000059|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:08:16.167521|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:08:18.000999|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:08:20.029771|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:18:16.054366|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:18:18.000058|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:18:20.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:28:16.210415|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:28:18.137061|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:28:20.000067|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:38:16.271187|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:38:18.000377|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:38:20.000102|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:43:51.521213|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 05:43:51.521351|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 05:48:16.314799|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:48:18.042362|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:48:20.000280|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:58:16.372497|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:58:18.000063|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 05:58:20.041819|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:08:16.400657|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:08:18.000069|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:08:20.087705|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:18:16.430593|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:18:18.000222|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:18:20.000083|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:28:16.627748|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:28:18.057829|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:28:20.000267|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:38:16.593236|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:38:18.024217|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:38:20.118854|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:48:16.601356|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:48:18.000107|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:48:20.052648|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:55:47.256414|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 06:55:47.257015|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 06:55:47.257108|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 06:58:16.640643|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:58:18.000267|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 06:58:20.000068|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:08:16.678267|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:08:18.001564|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:08:20.145640|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:18:16.724385|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:18:18.000134|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:18:20.017910|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:28:16.754118|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:28:18.000067|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:28:20.000074|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:38:16.868724|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:38:18.000235|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:38:20.000076|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:48:16.888438|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:48:18.000082|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:48:20.000254|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:58:16.988034|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:58:18.000067|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 07:58:20.000071|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:07:18.768647|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 08:07:18.769574|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 08:07:18.769750|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 08:08:17.024356|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:08:19.000058|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:08:21.026772|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:18:17.214295|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:18:19.025642|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:18:21.035741|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:28:17.249498|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:28:19.000200|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:28:21.000651|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:38:17.195714|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:38:19.000082|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:38:21.000051|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:48:17.386411|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:48:19.000083|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:48:21.000058|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:58:17.438302|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:58:19.016930|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 08:58:21.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:08:17.502798|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:08:19.020383|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:08:21.000268|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:18:17.681434|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:18:19.000052|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:18:21.000374|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:19:50.759274|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 09:19:50.761141|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 09:19:50.761316|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 09:28:17.645225|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:28:19.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:28:21.000065|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:38:17.673011|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:38:19.000613|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:38:21.000546|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:48:17.807027|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:48:19.062279|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:48:21.000258|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:58:17.791244|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:58:19.000076|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 09:58:21.000082|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:08:17.848248|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:08:19.178613|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:08:21.000085|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:18:17.951452|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:18:19.000291|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:18:21.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:28:17.952971|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:28:19.000061|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:28:21.000264|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:35:03.542684|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 10:35:03.549997|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 10:35:03.550121|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 10:38:17.966102|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:38:19.000057|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:38:21.000054|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:48:17.929193|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:48:20.000077|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:48:22.000048|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:58:18.193655|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:58:20.000054|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 10:58:22.000090|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:08:18.148213|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:08:20.058102|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:08:22.000053|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:18:18.246121|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:18:20.080469|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:18:22.000367|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:28:18.261473|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:28:20.000096|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:28:22.000054|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:38:18.346115|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:38:20.000050|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:38:22.000055|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:47:53.073944|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 11:47:53.074550|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 11:47:53.074605|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 11:48:18.394649|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:48:20.213527|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:48:22.002808|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:58:18.444215|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:58:20.000059|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 11:58:22.000247|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:08:18.457302|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:08:20.000084|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:08:22.000076|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:18:18.530014|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:18:20.000066|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:18:22.000059|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:28:18.538526|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:28:20.000269|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:28:22.000059|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:38:18.514048|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:38:20.000058|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:38:22.000372|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:48:18.618282|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:48:20.035963|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:48:22.102233|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:58:18.696040|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:58:20.000073|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:58:22.000075|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 12:58:50.075769|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 12:58:50.076258|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 12:58:50.076326|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 13:08:18.785458|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:08:20.076709|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:08:22.000185|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:18:18.821012|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:18:20.000074|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:18:22.000321|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:28:18.838877|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:28:20.000068|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:28:22.000096|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:38:19.084197|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:38:21.225750|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:38:23.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:48:19.216875|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:48:21.000261|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:48:23.607068|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:58:19.227814|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:58:21.000108|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 13:58:23.000260|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:08:19.249654|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:08:21.000053|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:08:23.094962|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:11:57.277118|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 14:11:57.278486|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 14:11:57.278665|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 14:18:19.421404|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:18:21.015481|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:18:23.007446|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:28:19.490847|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:28:21.000274|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:28:23.000053|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:38:19.842905|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:38:21.277570|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:38:23.049270|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:48:20.031756|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:48:22.052112|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:48:24.000290|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:58:19.875146|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:58:21.114780|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 14:58:23.092536|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:08:19.824457|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:08:21.000065|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:08:23.000061|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:18:19.890475|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:18:21.000465|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:18:23.047414|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:24:55.199818|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 15:24:55.200250|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 15:24:55.200308|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 15:28:19.852742|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:28:21.000090|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:28:23.175247|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:38:20.002364|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:38:22.000059|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:38:24.000399|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:48:20.029398|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:48:22.000048|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:48:24.000047|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:58:20.032315|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:58:22.000061|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 15:58:24.000087|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:08:20.185361|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:08:22.039515|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:08:24.037357|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:18:20.207352|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:18:22.512749|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:18:24.000304|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:28:20.332075|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:28:22.000077|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:28:24.000070|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:36:14.860211|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 16:36:14.861021|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 16:36:14.861257|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 16:38:20.300414|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:38:22.000146|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:38:24.022713|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:48:20.360845|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:48:22.000253|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:48:24.012358|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:58:20.508156|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:58:22.087276|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 16:58:24.142228|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:08:20.639419|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:08:22.138112|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:08:24.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:18:20.596799|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:18:22.000099|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:18:24.000070|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:28:20.666486|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:28:22.042229|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:28:24.000059|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:38:20.688934|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:38:22.000056|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:38:24.004750|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:47:49.910845|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 17:47:49.911430|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 17:47:49.911657|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 17:48:20.624701|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:48:22.041136|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:48:24.000122|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:58:20.767524|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:58:22.034446|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 17:58:24.000052|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:08:20.903818|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:08:22.070679|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:08:24.167891|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:18:20.943586|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:18:22.000058|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:18:24.000333|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:28:21.025237|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:28:23.025909|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:28:25.108655|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:38:21.003965|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:38:23.016616|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:38:25.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:48:21.010776|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:48:23.000062|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:48:25.000063|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:58:21.232337|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:58:23.000454|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 18:58:25.031289|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:00:29.730400|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 19:00:29.818609|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 19:00:29.827589|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 19:08:21.299427|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:08:23.070745|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:08:25.043086|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:18:21.280182|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:18:23.000050|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:18:25.000046|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:28:21.314202|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:28:23.015614|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:28:25.038859|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:38:21.512866|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:38:23.014674|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:38:25.091643|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:48:21.484296|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:48:23.000083|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:48:25.000286|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:58:21.556499|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:58:23.140786|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 19:58:25.033007|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:08:21.670758|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:08:23.165311|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:08:25.000070|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:14:05.065520|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 20:14:05.066319|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 20:14:05.066417|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 20:18:21.642229|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:18:23.161228|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:18:25.000468|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:28:21.744487|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:28:23.089009|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:28:25.095496|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:38:21.703159|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:38:23.024459|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:38:25.000048|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:48:21.763615|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:48:23.001757|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:48:25.000114|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:58:21.871907|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:58:23.000285|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 20:58:25.000061|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:08:21.863414|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:08:23.042645|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:08:25.000838|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:18:21.774597|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:18:23.000069|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:18:25.000072|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:25:45.345460|WARNING |Accounting    |   | detected incorrectly running system clock
+2015-06-13 21:25:45.345929|ERROR   |              |   | TS3ANetwork::Connect failed error: 111
+2015-06-13 21:25:45.345996|ERROR   |              |   | Unable to connect to primary address, trying secondary
+2015-06-13 21:28:21.832660|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:28:23.006802|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:28:25.000805|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:38:22.107894|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:38:24.000050|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:38:26.000052|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:48:22.055816|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:48:24.000292|ERROR   |              |   | TS3ANetwork::Send failed error: 111
+2015-06-13 21:48:26.000060|ERROR   |              |   | TS3ANetwork::Send failed error: 111

@@ -1,0 +1,24 @@
+2015-02-14 09:40:13.393203|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2015-02-14 09:40:13.393362|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab103.6 #1 SMP Wed Jan 21 13:07:39 MSK 2015 x86_64 Binary: 64bit
+2015-02-14 09:40:13.394328|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-02-14 09:40:13.394359|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2015-02-14 09:40:13.394684|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-02-14 09:40:13.530415|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2015-02-14 09:40:19.462285|INFO    |              |   | Puzzle precompute time: 5918
+2015-02-14 09:40:19.462951|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-02-14 09:40:19.656837|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-02-14 09:40:19.657421|INFO    |Query         |   | listening on 0.0.0.0:10011
+2015-02-14 09:43:09.948185|INFO    |Query         |   | query from 2 78.8.17.115:20433 attempted to login with account "serveradmin" and failed!
+2015-02-14 09:43:20.030248|INFO    |Query         |   | query from 3 78.8.17.115:20436 issued: login with account "serveradmin"(serveradmin)
+2015-02-14 09:52:06.952984|INFO    |Query         |   | query from 7 78.8.17.115:20625 issued: login with account "serveradmin"(serveradmin)
+2015-02-14 09:52:45.080992|INFO    |Query         |   | query from 8 78.8.17.115:20644 issued: login with account "serveradmin"(serveradmin)
+2015-02-14 10:10:14.051343|INFO    |Query         |   | query from 15 127.0.0.1:57889 attempted to login with account "serveradmin" and failed!
+2015-02-14 10:10:24.743136|INFO    |Query         |   | query from 15 127.0.0.1:57889 issued: login with account "serveradmin"(serveradmin)
+2015-02-14 10:10:41.128856|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-02-14 10:10:44.645866|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-02-14 10:13:28.718347|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-02-14 10:14:03.130918|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-02-14 10:14:37.623441|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-02-14 10:18:20.192867|ERROR   |ParamParser   |   | Protocol mismatch, old client or old server?
+2015-02-14 10:20:02.788010|INFO    |Query         |   | query from 19 78.8.17.115:23912 issued: login with account "serveradmin"(serveradmin)
+2015-02-17 00:34:17.713065|CRITICAL|ParamParser   |   | Assertion "positionHint <= m_MyPiece.m_paramSize" failed at common/parameter/parameterparser.cpp:252; 

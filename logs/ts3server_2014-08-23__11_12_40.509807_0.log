@@ -1,0 +1,13 @@
+2014-08-23 11:12:40.510051|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2014-08-23 11:12:40.510212|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab092.2 #1 SMP Tue Jul 8 10:35:55 MSK 2014 x86_64 Binary: 64bit
+2014-08-23 11:12:40.530910|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2014-08-23 11:12:40.531011|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2014-08-23 11:12:40.533293|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2014-08-23 11:12:40.601370|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2014-08-23 11:12:42.126573|INFO    |              |   | Puzzle precompute time: 1481
+2014-08-23 11:12:42.136027|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2014-08-23 11:12:42.291508|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2014-08-23 11:12:42.292812|INFO    |Query         |   | listening on 0.0.0.0:10011
+2014-09-01 00:00:41.735925|INFO    |VirtualSvrMgr |   | executing monthly interval
+2014-09-01 00:00:41.810461|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2014-09-13 20:29:46.818908|INFO    |ServerMain    |   | Received signal SIGTERM, shutting down.

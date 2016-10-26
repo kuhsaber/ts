@@ -1,0 +1,22 @@
+﻿2016-04-26 21:56:01.307614|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.0.12.4 (2016-03-23 10:36:05)
+2016-04-26 21:56:01.317174|INFO    |ServerLibPriv |   |SystemInformation: Linux 2.6.32-042stab111.12 #1 SMP Thu Sep 17 11:38:20 MSK 2015 x86_64 Binary: 64bit
+2016-04-26 21:56:01.318287|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2016-04-26 21:56:01.318328|INFO    |DatabaseQuery |   |dbPlugin version: 3.8.6
+2016-04-26 21:56:01.318606|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2016-04-26 21:56:01.387031|ERROR   |              |   |TS3ANetwork::Connect failed error: 111
+2016-04-26 21:56:01.387127|ERROR   |              |   |Unable to connect to primary address, trying secondary
+2016-04-26 21:56:01.508225|INFO    |Accounting    |   |Licensing Information
+2016-04-26 21:56:01.508315|INFO    |Accounting    |   |type              : Non-profit
+2016-04-26 21:56:01.508346|INFO    |Accounting    |   |starting date     : Mon Dec 24 00:00:00 2012
+2016-04-26 21:56:01.508369|INFO    |Accounting    |   |ending date       : Sat Jun 29 00:00:00 2013
+2016-04-26 21:56:01.508388|INFO    |Accounting    |   |max virtualservers: 10
+2016-04-26 21:56:01.508407|INFO    |Accounting    |   |max slots         : 512
+2016-04-26 21:56:03.206163|INFO    |              |   |Puzzle precompute time: 1565
+2016-04-26 21:56:03.207737|INFO    |FileManager   |   |listening on 0.0.0.0:30033
+2016-04-26 21:56:03.208032|ERROR   |              |   |TS3ANetwork::Connect failed error: 97
+2016-04-26 21:56:03.208073|ERROR   |              |   |Could not open default UDP connection for weblist
+2016-04-26 21:56:03.293049|INFO    |CIDRManager   |   |updated query_ip_whitelist ips: 127.0.0.1, 
+2016-04-26 21:56:03.294507|INFO    |Query         |   |listening on 0.0.0.0:10011
+2016-04-26 21:56:03.357447|ERROR   |              |   |TS3ANetwork::Connect failed error: 111
+2016-04-26 21:56:03.357576|ERROR   |              |   |Unable to connect to primary address, trying secondary
+2016-04-26 21:56:04.438037|CRITICAL|Connection    |   |Assertion "m_AckWaitIterList[packetType].push_back(pID, i)" failed at ../../../../s/deps/teamspeak_common_lib/src/connection.cpp:681; 

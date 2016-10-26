@@ -1,0 +1,3 @@
+﻿2016-04-26 21:56:03.292311|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987
+2016-04-26 21:56:04.086759|INFO    |VirtualServerBase|1  |client connected 'Scarletto'(id:1383) from 176.221.124.190:28137
+2016-04-26 21:56:04.395019|INFO    |VirtualServerBase|1  |client connected 'McK Bot'(id:2634) from 89.40.118.55:52483

@@ -1,0 +1,18 @@
+2015-01-16 16:19:35.454000|INFO    |ServerLibPriv |   | TeamSpeak 3 Server 3.0.10.3 (2014-01-01 16:28:39)
+2015-01-16 16:19:35.454906|INFO    |ServerLibPriv |   | SystemInformation: Linux 2.6.32-042stab102.9 #1 SMP Fri Dec 19 20:34:40 MSK 2014 x86_64 Binary: 64bit
+2015-01-16 16:19:35.528644|INFO    |DatabaseQuery |   | dbPlugin name:    SQLite3 plugin, Version 2, (c)TeamSpeak Systems GmbH
+2015-01-16 16:19:35.528729|INFO    |DatabaseQuery |   | dbPlugin version: 3.7.3
+2015-01-16 16:19:35.533187|INFO    |DatabaseQuery |   | checking database integrity (may take a while)
+2015-01-16 16:19:35.632728|WARNING |Accounting    |   | Unable to find valid license key, falling back to limited functionality
+2015-01-16 16:19:41.215336|INFO    |              |   | Puzzle precompute time: 5067
+2015-01-16 16:19:41.222136|INFO    |FileManager   |   | listening on 0.0.0.0:30033
+2015-01-16 16:19:41.778670|INFO    |CIDRManager   |   | updated query_ip_whitelist ips: 127.0.0.1, 
+2015-01-16 16:19:41.779269|INFO    |Query         |   | listening on 0.0.0.0:10011
+2015-01-19 21:29:07.467080|INFO    |Query         |   | query from 671 92.222.73.211:58082 issued: login with account "bot"(TTnRxrY6a+6iW8xnf2Kl7n2QIfA=)
+2015-01-19 21:29:07.861801|INFO    |Query         |   | query from 672 92.222.73.211:58083 issued: login with account "bot"(TTnRxrY6a+6iW8xnf2Kl7n2QIfA=)
+2015-01-28 19:27:32.322170|ERROR   |              |   | TS3ANetwork::ResolveHostName failed error: -3 (Odwzorowanie nazwy jest chwilowo niemo&#380;liwe) 11
+2015-02-01 00:01:35.677536|INFO    |VirtualSvrMgr |   | executing monthly interval
+2015-02-01 00:01:35.729429|INFO    |VirtualSvrMgr |   | reset virtualserver traffic statistics
+2015-02-09 17:27:40.400872|ERROR   |DatabaseQuery |   | db_exec failed disk I/O error
+2015-02-09 17:27:40.409825|ERROR   |DatabaseQuery |   | db_exec() update clients set client_nickname='GameTracker' where client_id=139 a error: disk I/O error
+2015-02-09 17:27:40.409860|CRITICAL|DatabaseQuery |   | Assertion "error == ERROR_ok" failed at server/serverlib/database/db_database.cpp:113; 
